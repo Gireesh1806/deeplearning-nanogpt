@@ -1,0 +1,6 @@
+iter,train_loss,val_loss
+0,tensor(4.1703),tensor(4.1670)
+250,tensor(2.4441),tensor(2.4399)
+500,tensor(2.2920),tensor(2.3076)
+750,tensor(2.1554),tensor(2.1872)
+1000,tensor(2.0612),tensor(2.1073)
