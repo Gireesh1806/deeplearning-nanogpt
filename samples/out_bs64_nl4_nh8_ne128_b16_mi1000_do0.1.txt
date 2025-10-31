@@ -1,0 +1,215 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne128_b16_mi1000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to bete this it dof not sord.
+Prond ring oneall thy Eow I so aitht shegron:
+I thuble bent's thay shand ompesices fraint and thinh
+To necomes to not herer: the foe as sond wailoll
+An of thim petolan dibe wall ous.
+
+VOF ORIO:
+And now aurt swing becese
+AThe brove, ukn wall is aifore nois aght
+To come led, aencturs it:
+The wit man to thit tholly to sestearond
+An praied sto ind and semiterte storee,
+You Sor with sond fores; ow hee the morme you thau time.
+
+
+LOMENENGO:
+And the ay eque coasom ant the stouse
+---------------
+To be or not to beter feat thee wilf:
+An treas of lach, in dyou beante in theam,
+And thas fay but thath comesf ourd, tof thath fard
+Thous of me and the ferears of the torther as thee oof bothe
+me let allince mit thais ath not
+In shoubotir o may nomstech, in ampile ace them rove?
+
+You:
+Goo that pooore to for eequen somese to say, peamef
+I borde and yournt mostale ait of they movithar.
+
+DUENE:
+The you with urom.
+
+
+GOUTINGE:
+I som math fort ompes: ains my und, best.
+
+
+COUCHOLUST:
+I to hou man, hoble to come that ous
+---------------
+To be or not to be ming anrd minge.
+
+ENGHARD IV:
+This seas for deences; may and made, fir thim me this thent
+I sher in hop! weartye of sit illle thave?
+
+
+
+DUEY VIIO:
+MAy where, come
+An, that you faurt mone ending: sereash taissed;
+Boce;
+And that in hip berrceainc: of for of and I not you:
+And and for thoou theall.
+
+
+CLOV:
+Bordsse, shible, in an feceom mage say abuts;
+Of mather, This and shis and farticines:
+Thow aghy alll and that thas fauch the stheme.
+
+
+ANIENBE GAR:
+Of may rindem and fart therpe of ie!
+
+
+
+BOUCI
+---------------
+To be or not to beth to to whrod the for ceaves:
+Sosing'd to this and bouch a the combred
+an he and day our him?
+
+ROR:
+You you singe that and the weart the hou fore thand
+fors me, thou brope to domores, merrither mich hows:
+Your nom this quit it the meert ein the upost wen hand.
+
+Ret Row:
+Wpord to lof speare to mernt toe dast
+I the the that aill in the in woll ther,
+I'll wom wich arche an; and macht off you all
+As for ombole of toree som the at mally', thave mich
+An owers suy hande this coman fars'e wang bomes,
+H
+---------------
+To be or not to best fancel
+Thow my sajod, is I live the of Lugnts theme of foy mert ane
+To she thaier in brome
+At noth they I spaill for foy of thes hill atirtince,
+And this me of love and nolle sombany come aka ind
+ond mame toll fore?
+
+ENTUS:
+Bed one moded the wilie an speante, I my and and will
+Is sovee preatt ink upres in and them the sos;
+Haby fores, to mane me pay onning mouce foor;
+The of lomme shire noes lingre on quowiter your glom.
+
+
+
+KIRCERD:
+The mire un of orde to wompp, aill ang merend olle'd and or 
+---------------
+To be or not to be lealing to he the coral and lend pin ath
+Poristince tor theat me and yolle,
+In seall feast do Co to willl the portoe
+Nove por the sis there, ang-my hein thas.
+
+
+MENRIO:
+Por withelle!
+
+
+CICENW:
+I, shaou you strom to shaill,
+And to done amt at and will you you the sim!
+
+Whince ERIUC:
+And thas the house thore heart sue thich efart ind
+An she sprike lie love 'ship I deen comacy if toy In' of the lids.
+
+Prath:
+Is your shand in wich of hour
+Thim eby thate, os I'lll fay ayou-stell thirs lis your somes
+---------------
+To be or not to be me.
+
+DUCINIZAH:
+I com oir sher.
+
+You sires; with as for ome, int of If lam,
+This
+ING for tas me may ba'd of his.
+
+
+Vord:
+Os hall we so! youh moll of me ay for of cortent
+And on in mose, theat mon; with ing;
+Becor mome for hhom thim shim in pratteles thish ould;
+As follive has oll with nomis. Bikeng sied?
+
+
+SUCHEY ERO:
+Thaw bet me mare themione come.
+
+
+
+CUCIOR:
+Our in the beeall I of the thier an willl on as so willy;
+
+And with spaire your uvers shong wore oncly
+ither for ap the nomes lif thath.
+---------------
+To be or not to be wore sow
+With deck cint formone lin that theall
+saim to in womite: nume, for me hoseft, or this omphe
+Tin morde for bease sir shim thow eis love
+in the hosen of torruan thrighe themm indous,
+In the dof frorcher, faill the yon wis thew;
+And musen thull of thee poring in no hell tinch mones,
+Ang of ancile with a uplorst tin ont oser lomag nome.
+
+
+FPUKINCE:
+
+Bovit's lives ome-sar nom. I grorth shaing a to that sit tothe mometes
+as in citomy thathe therend prom yon fold to gaue to thinchm
+Anit on a
+---------------
+To be or not to bespoge pom of sre ace;
+Mat kil fort al fal'd in for wimed the an faill;
+Whis dast the wore neme theme un thape and dacked.
+
+Ford nove that o me beste.
+
+
+
+GULIES:
+And nour the nove seay wor lombe and tome,
+Gor the seyou fore pome your an to we slatitid,
+The for foe you mou the furse mownk' for things song
+ielk byour pustsem and the an uss and as hally
+I' the ronll and to for ond goolls thee shim him:
+I shou in cor on hee mast for this this loveles,
+I our suell but eather the yonger to of siss mite
+---------------
+To be or not to be good the well mece. thou I wall and shed
+thot come I sraiank notur in than hat lay,
+Nove wak thay the maglt tay the and thay.
+
+But leace:
+Ap the shies theis aps, thend wore me tonly
+Now: how of aith me fordome, pochy sirre maked
+Hall tat thim's and bench on and of pleart of
+Thene aps undond and, I thou coged a fore.
+
+
+BENGHAD:
+Wher Jome to are uplan wevillan you.
+
+
+SICINGHANGS:
+Bost byou nom to couse that tore well,
+Pree my ange ind touch neme ond thy alle aust that and umices,
+That and wo the 
+---------------

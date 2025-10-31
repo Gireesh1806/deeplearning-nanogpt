@@ -1,0 +1,220 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne128_b16_mi2000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to betert.
+
+CORWABUS:
+My to ploudicord; and all thy sow ins:
+O where agains with brey: not.
+
+Secive:
+Now, here befer the how.'s how words Of thing
+He worth me fresesss here honow fall the with of
+Which peart our this from.
+
+
+
+TOMENIO:
+My word I low of heardor to know the sway of
+Wn it be the Crownaled, and to this:
+Their I man to this hos by to seeld
+And her praise staing the pansiterters?
+
+Beach in on word worn fores; nurse but you,
+Thy hath untife wear good God tone to ange
+the say enter the stater
+---------------
+To be or not to beth the though wilf:
+The reast bEd the boady the lawer's hand unench,
+Come my death, ar when in as stifer the fard
+Thou to know that he er of be this
+For you hone. Come butt the plewn him courtar to
+I he snath bosht booth on a wnd.
+
+My joil ame lay come entrable of the at the my fore to,
+Broower not blove bus thou hou dord.
+
+
+MENENIO:
+not be allow, bode they one bard;
+And Edward you with ure no do the all sown.
+
+
+BUCKINGHABES:
+So:
+O my he vengst an more.
+
+
+
+To Lord; yo my frord Mentoce,
+And I mos
+---------------
+To be or not to be mighted,
+This enst the dores him, I say for deance
+And of to made my her it me heir then cumpter
+An how! what year, sir, we math vay stand to.
+I when in you, come
+And the paster of thou he his ar, we such onsen;
+Booy word the quent of wearth thou think of and.
+
+
+MORTUS:
+I good beth thou and and take peatl the this
+How this a she come a a say abuts that a thou
+Turstant: but and faing in to magant, you min
+That bett the agack we star fir the say, God with are.
+
+HENRY BORY ARLE:
+Centingen's by the
+---------------
+To be or not to beth to to whrow the for I
+Moriame sick!
+
+BUTHAR
+TOF Sechan the think, for I he am.
+
+ING Mordie?
+
+GLEORYCUS:
+And you shal and the weart the how here
+A a more bealel wome, concee dood them.
+
+DUKE VINCENTIO:
+We I and bee with mame to but, tone,
+And, you, and what thise not made do
+Bother staing to me near, and whords herd thee but blew,
+Come, thou as his counter in broce: what be mad,
+Bow be some the for the arke bee son.
+
+SaKING EDWARD I IV:
+Appice thy we shal the seall with faice
+she hand boy so d
+---------------
+To be or not to best faice,
+Thou by sajoine, whell for stice? go soul word a
+his prestome a son the ere and are
+At not this fomst to me the blow dough!
+
+AGENTIUS:
+But that is been the that love said
+The fest a baidon one make too and with
+Our the drowe heard the wilie and me
+As for my pay his will is sovee prestt to that
+This with dow the so did by for of to
+And when and and the be but your love,
+In moshire hies laters on quewiter there,
+The whoe more know ching the will come.
+
+HENRY VARD:
+He tronk old a you wor 
+---------------
+To be or not to be lead!
+
+POLINA:
+O, comel ago let his mane hath,
+And come the twer and your of nowe.
+
+KING HARD CHARD III:
+Be Now thou lave porting,
+And this, angersthein the clawfer and mores,
+Pelientan to fain the aou evison of thee,
+The they to dove art agains wher will butt,
+The sy shong up! his shall lived the slike,
+The art such inciousty of to the gose:
+The be lord 't he warten come, I fight I no
+The gul'd nemary, whos and this dright bees thy
+His fore port on tosen, por and you--
+
+DUKE OF ORK:
+Than with 
+---------------
+To be or not to bean good
+A not beet commoints the him! sire in the are?
+
+
+QUEEN ENCHARD III:
+Be you and thou but in yous'd lord somp.
+
+
+LENTEBOKENG:
+YoU! you not good me agonst of we heat
+A with in mose, andaing be with in the comeme,
+He shall my sow the in pratter manst roough;
+As and incleaser lown, and a me lanst righthers,
+As our this with you drange cliodes you.
+
+
+JOLEN:
+Which woun he beath too
+me this the vich outh has say mord;
+And which wife I your usons should to sow strithere.
+
+AGONIUS:
+Am are for stom
+---------------
+To be or not to be word sown say ducky
+Ent for not live and the far an we to twort manduch,
+for my hosefer of the some, go!
+
+KING RICHARD III:
+Wosh workes excolle;
+For devels nob' this and the cartue
+my anot the on and I fromesther the victly,
+This the do the pusent upon with of this
+the no he to sack that not growlk couserie;
+O upon this his to soubldian he our come now his of
+How love be the funcit where theser our: to then sice
+At this Clesord in cardiy; their the rod prak you hold forge,
+O that no, what for a
+---------------
+To be or not to bespone pomeon's that him thitles.
+
+BOLIA:
+'t in for with for Wall pron;
+For you fror the his make uponin the fult
+And to for I dond thee.
+
+Siche the they proftter:
+And hep and me not dise, lose lawer,
+My tour trens you fror Him cowns:
+I would what the so go,
+Eng my what would hus exmown the I no now staid.
+
+SICALLO:
+As but the paing no suck of
+How the come onstle the to for tabend
+Hos the sanst him mursece in corture;
+Be as a whosers this loveles, I our such,
+That are with the her this our suckes
+---------------
+To be or not to beeged, I thee repsce. thou and in a foll.
+
+GAUNIUS:
+Ay, race it a a and than his lay,
+You so he have by mader tak the and that.
+
+BRICHARD II:
+What the shalt fears, he not surnd,
+And resend how our hand has sire, whoseyts drough
+we tal stand a be thou ben have and of plewer.
+
+
+COMELIANUS::
+To will, I am do me did fore.
+
+
+BENGHARD II:
+That he darth; lay we thean be this lage?
+
+ISCARUS:
+This what word, for envor be we the sawers!
+
+MENIUS:
+Aund new more thy al my be crimes;
+Thum in our por to word do
+---------------

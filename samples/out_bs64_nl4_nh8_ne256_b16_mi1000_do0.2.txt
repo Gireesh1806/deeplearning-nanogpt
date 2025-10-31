@@ -1,0 +1,165 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne256_b16_mi1000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to be staes, should
+Where and fir have you to me me to theet.
+
+POMINIUS:
+I they nadter bear to him thy crow make the a cound beaseith's me to in
+Indeme forer poon on you and unteds the hear'sters.
+
+SAMENIUS:
+The minen to here is our grows, colive had I nat and in with sonter,
+I fart to whe hose of or to love Cats sake them he soremtet slast thee you,
+Do let our be is to not and the would my wear I ble evers with praine
+To and himse that blord in our wrist musitors,
+Ind comest mine in and them I for m
+---------------
+To be or not to besece and shall, the boorst!
+
+GLOUCESTIR:
+Forths the in hou whesence and the wear my oh.
+
+JULIO:
+Of is sire you would I is I heep sidice's and the whee I come minnen the bring,
+Fort thou do now should me and andume noth pule;
+And of the waress if our me sols arrity, they sadh.
+
+GLOUCESTIR:
+I gropsife to bambe, of I this ince the my wearien orm' had;
+And him to live a brence'ds form whe the and nothis blece tmenitish buor itceps,
+ore wer pase,
+And the thee hight the sonme
+And to pairse rents srres
+---------------
+To be or not to befor lices,
+I marlio the it mare, may say dear.
+Whenrest that barriestiar to he shall for she seer a rout
+Wor torm'e courn, boorse soll slay unh
+Him frourne heress 'ear: whe shinks eless wert the and somes
+Or for bide the drume of come thy the the read poped hought forth,
+Ourto-faconsorsio. And hou be the col
+To chill to be the cretions hathy me thathey cone me you do of gakn!
+
+HENRY VINCENTIO:
+Ands ame thould Clouk and you his ay,
+Fher lown you she the is sand I headssm for and me to heathe woul
+---------------
+To be or not to be the can:
+We scous sawere in there him dacetter, not and to the as to sumpest now
+Ind bido caurt's oup heresome, ponsen in but me is your to sond and.
+
+KING ROKE VINCENTIO:
+Ou hear a now kear, gave. the chall teatur befor his flison.
+
+GLOUCESTINGER:
+Upen now it sall sueart I a marries,
+When heir the whem belt to pree goods and, endersome the the a divids and to whuld,
+He sacus good of he buins a hout hour take the broys.
+
+CLAUNES:
+And then manser, the thou dand marrousi.
+
+BRETIO:
+Ah no, seam.
+
+D
+---------------
+To be or not to be threart the pins, too that to they weare grinaul'st noth dows,
+The in upost feail's withe pran, mines youth bring
+The dow then spiay pairser, and all hought this or the of in fat:
+Onds heread!
+
+MENENIUS:
+God, god fill unged thee ill is I cran
+Sidy! and to grion you frome moure some ought,
+I cance the the comed at to lose good the to be withe a usch?
+
+Forrows then Reak Meat I wouth the browhory beastiness,
+Of make dead, you hem and noth good ever bring came you, she burs
+Fromer his in the grow.
+
+---------------
+To be or not to be in lestent,
+And this the at whith to my him heare farrian be with ofither you
+For suntion of ceass mosfaens the me in bowns his me and he bron:
+Shall what shee his deace unter arrite a dom sactenter's tome.
+
+DUn:
+Fore you do there Citer, I frrown as the good patter!
+
+AUTIO:
+My me neare they be for flow what min, I shall son heash swe her with the his now.
+
+MERICHARD III:
+Whe be paside of glew then that word, she kins some,
+Now kron your of and the the a prees or their him, buthhre goce earmusit
+---------------
+To be or not to beturn he arws.
+
+LOUCESTARICHAPRD II:
+I what thou ind and prave manters you a fase ther,
+And I shallords thee me paries the end the keast toor wranter do me some the his amper,
+The sour the and thy me sains loce, and the aur sirest the ord to you,
+And ther cante to-shall grand should this the greathey to said
+Of shen more to refers in bred the she ond paiter, some of nor
+To bust me; the lord of gest laught mon the make,
+My interestere the hand the off is the fries, be I say a whour mine;
+Ond as to
+---------------
+To be or not to be mare sunged.
+
+ROMEO:
+O she me casterlow of hat throw he sace bron's wead;
+Why when the somenter boor arm son onour dake thou torl him.
+
+Diver:
+Meathe sorcess I shild now your cirriousorrous nows cears with mestrace to mive sir, deak,
+Ongs briess in the kin's weath flatter'd that son, the in sace
+Brawh eet wast of no me my fister.
+
+QUOEES BESTINIUS:
+And you sheave in shall hand ho go he the master your of you a swarer'd to wore sore blers a pascanse ond poor'd.
+
+CLAUN:
+And my ameath pase I would
+---------------
+To be or not to be for me my son;
+What ris the the direr come insupiriens lears's rraw me whert to ties your,
+To suin him shold me is ungue in the our sonst livess diesesir,
+WheClends is con and the erfers forriy, on good hror ands
+Trust nes? God I what reged will the me boke, not
+and in the me oncesons of and comseels he to tere you with of my beather hear.
+
+DUKE VINCENTESWINCESTING HAM:
+Meartirs.
+
+Gents wereath prosinter, Courserfil, mead.
+
+DUKE VINE:
+All unter nown lest be they shous soriustserve our goode'.
+
+
+---------------
+To be or not to be namesice.
+
+FlETER:
+Shall you ind of to clions bring and this he there her landers,
+Ont fainst enk which beast, for be your gore the thim?
+Courds, the the saysinaty us in a your to the justir ardre.
+
+PLAUMIUS:
+My retime all, shall, preain, toan to what hence the fried,
+Whee him ind to the fains or them theys seever brown Jers,
+And sonce me I now my shall good be prousulf,
+No him is the brosss; me whres sould to he prove the tooth a cand fard.
+
+FRICHARD MEORWLord I'll the VARD:
+As men:
+Shen sith;
+---------------

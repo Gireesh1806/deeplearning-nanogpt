@@ -1,0 +1,182 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne128_b8_mi2000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to bete this it dof noth the prid?
+
+JULIUS:
+Who he not you near, the and is wercucte bent.
+
+
+Silf LOUS:
+The in bef for may was whith nays lect in of him other whe as soulders old
+And the in peas, had bet all our this fray.
+
+
+
+TLOR:
+Surt swend bet hexir.
+
+AMIUS:
+Be had but way of intis age with the herdla not ham the ming the now
+Noth in blay loksestersoad wragss well selly Kists fith terst therce in oof the with haver;
+Hirs is pe mirme you theurtif tiuntught you dandy,
+Ouirge the say enter the stay a
+---------------
+To be or not to beth the thought bof intr,
+Have bEd that wad this the mint and un have
+To fart a come trow wefirs our sort the fard
+Thous of me and the fer of blie she they arts ull: to buoth nallle
+nallith in and dim at and thy shall the or and mEdwech,
+Whe me laorce the brow our on all the in of have your eeelt.
+
+Forse with marte before thou say, my noth will, and of they eave:
+Why if the dake the in kourcent of the andts som oat thest
+The have his bure vengst an me.
+
+Shatt MENTARDWARD:
+And bad houch, he art ha
+---------------
+To be or not to be my oundrddy me;
+And peet swell thers the be deanceght mut and to pay heasth
+That in the the of lain hope wearther and the
+The thave the wame the ween in you, coud mate.
+
+IFAR:
+Re ord:
+And which rom? Hell and lid iner.
+
+That with hish beracther:
+Ant, an he and I know compearst hert frear and and ta swaith ordsst,
+Shid my inerstay word'd and you, they and and of urstay.
+
+YERY:
+A fart thou pran what you ming and brty the aurck we ster thoulls in hishf.
+
+GRORICE:
+He day that and the shale fart the 
+---------------
+To be or not to be a the mely which you freaver:
+Sou, prave anc shat deme ou, the come fall in sall;
+And hoph with the suppor thy mayst in now frowed thy precth Bearth farry;
+And lew man cie tem of and maker the price howsild,
+Bod but with stme tom and to eand beter and thre unt;
+Reant am from frat of ster bet therst 'ou dack
+Thes herd the with but the in my hat thy you hard will:
+And The we me that of bet or with far o't am of tet,
+And by shat it sto siveart in and ows shich hande.
+
+
+RUCINTIO:
+Nowgult have, so d
+---------------
+To be or not to be the have
+Thown buss of I as flove the were gaks the aut and her?
+
+DUKE MENS:
+Whate of tir, orst not ther it spalll hee fay
+What hosh lok tir incle you him, bese all that love.
+
+That by come and in to low me to with with aut tith rome ineed
+And wilde and me at ent my and and will is youre pre.
+
+
+BRICIO:
+Whit whou dom the some af the have to man do our mocHing.
+
+
+
+DUKE RIV:
+Thou leart my hersees liters on our it thy sartle the ontm fir,
+The murt the will come. This, a hat hatht you old af a and i
+---------------
+To be or not to be lealing the me:
+How hat hearll fur a and hat stik accer theatth pairty,
+Whow now with east do Ciing will in Noth toe
+No hepor the didnere with grusthein that lay to and mor with
+Ouertur to farr they ou eests in my eest be
+they to dove art at and whild but but un sim!
+And not this lowght the the hous ithore hearty usel
+This fay of to the gre cill af the he's he warte
+With syour to cannnd bectuld and and that of teattherd.
+
+
+ETIS:
+Yhy:
+And mye port on, when, por af Lartiese all in oll the how ons
+---------------
+To be or not to bean guith here;
+As fake our shat thim he weers is and you our ourthernce
+And thou of in thou sim incious'd of has.
+
+
+VUTLENS:
+Of thou so! youh moke oun eart, not whow heath.
+
+HARLR:
+A that anay, quies me in teat or morth is hand the
+would in orst blove mayr our as seatllive has oll with nim.
+
+FRURICENO:
+Thim she spourt:
+Thld bet my marng by in ance the to ast and un in the beeat our,
+He the wers vighus old as stay dimed:
+He with will I you hus hom and gue she coy
+Oren eive and and the in farts ou
+---------------
+To be or not to be wher sow
+What decky int faimone lith avent mad noan wert.
+
+
+LISTIBRD:
+It fay math seet, be the some, gain, brom foule;
+With hosh You ow eirs out in the hast oof therur it;
+And the hum and un have and they oure unnt wive,
+Which is the do the pronst unks with of this timend hell tisht mines,
+What with in you hear all gritie sto os the taght my.
+
+
+FRURINCE:
+
+Bord, bell me hands fince. I grow his Yen bart the trait hothe itheres ang.
+
+Prtomy:
+O his the ind prak you hold to gaull in gincsselaitsh is
+---------------
+To be or not to bespore pom of sread you at kill me
+The fak'llint whaw in full an this had in dayther theme nemst
+Them un that mace dacked of or wer thee.
+
+STORS:
+Whe fey prom thers and op the tee sead with you lawer,
+Mort for, what tay you him thou have sto the the dendseartther,
+The will felfurse mown the I thany as and wing nobrd.
+
+
+ARRD:
+Freat and Ind om be have and the reall and the she abend
+Hos the sanst him of I came your ou have, ay flay,
+Whith sKild and, I our suell but eares the the hersts.
+
+AUS:
+
+Hit 
+---------------
+To be or not to be god love,
+Here sce letor hers and for fanturted:
+You srace in and and that hat lay, ere
+Hish that you maglt tay the and that if theld;
+The pres weake law ween, whence and hy me toldss well,
+I that warth whis ear of yther the deectaurstand a theall
+Then have and of oll or have dikesps un ould be,
+I thou cogkd a friest the that the she murtse to be and shalland:
+Hebis lage sue, whild this what have, farte but helle the sawy rue
+The hatt ung the may the dak my unter and now.
+
+WARDITES:
+And word yo
+---------------

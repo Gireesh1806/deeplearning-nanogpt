@@ -1,0 +1,148 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne128_b8_mi1000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to betent dam thempon thenk ppred?
+
+JTHARCMILIOLTHIAEUKIARUER:
+Thell aghors weraustey:
+Tht thealf hand ompe ilom f fored heat's hinow,
+Th O chith the werit me whes susou he hooll f toth sil pe.
+
+
+VONGENLA:
+
+Woust his fot anf tof hothurt se igh thes of hethiour,
+Th halll is aif athntis bend, mar lan I wharict hthit:
+The hin m no the I in blay thes sueamou cor gos we sto ird Keathe ith te sto weren hyo of tha wend foull gow heell ther,
+Thy I thau tif theat go thes da Ey theay e thil asownd the moutht a
+---------------
+To be or not to beserst to theer bof icke,
+Hal goul thaven dy ting see int and thench tho ffow
+We thand cind filird stof than thard hends o knor that he il of blith
+
+The thin as then to buotht me lethal itht meap tain hthand thy shouboutht thardnd.
+
+My joil ame RICORTIUMIUCERKI:
+Sous alat thait o o and your eeeltors blop hous thoue
+An llllth shand y Conthe wist o wo of thagy ou thard iloug?
+
+Ther bethe I tro nof GOF I allthas I mathancet hend aus:
+The we the gso gr cha ant this hand yo mquse find houch,
+At ar tha
+---------------
+To be or not to besen oledrdd
+Bopess hopee I weit therse sein porenceg meaut tout fory ichthit mer thengr ath
+Thang is ho we mam beand sit ile e thave pleand thes areen isty couste yon,
+And theme co the char hin he, thisu tans lllow ceand byof
+I ind do blerethe thist, an he an cound becow be hash fth thoous,
+I bearat wind lordst his ibor, is an fencot ma athay
+And shy at, I ind This anors herr wof heak herd
+Thow aghy alld tharr boty the ak cor tou thof outhses yo Gofof theay r wiverd,
+That ather I goree f thyor t
+---------------
+To be or not to beth Oblovestr hit I fou I
+Witis ars, peave and shand bouch t then four d anghy and;
+An r pand RI shether, y grin thes si and theared thind hou heer thand
+And heeal w men cos te doo athem lrrith comicurd wsis I tha bow w
+
+And me tomy meer teanoube upost wen hand theeant aparp d f ato f sthare twand,
+Bar bod I A VAswe be thatheil blerind is wold thery.
+
+HECANGEDIN:
+Nou bupe; heme thand wird s ale gouth be bof kicote send mean s thivestou thave mins
+An owems su thande thin chin waths g hang boy sof 
+---------------
+To be or not to besthf hiel le wim tos of I as
+All f theco re goparth wile ally mpreranes ars n thaner.
+
+
+LOLULESTIUSTHARENT:
+Lom tol heend yoou d ho helo I bathecouly Buthild shef lont ar lorll' sor mby
+Ast ankais hace bak tomoll f geedllagout thar se poued
+And wilis an s myothe I my ar peand mave athoure pe stherokn are: wo wind d hand:
+Ans thaby fourd it than d bouand and Ma oucr m o nansthor'd am
+And I thees ghitrs sor howit thenstr lo thave thof ousbis mintount?
+KIMENGHIO:
+His, d hat hatht ghovol tat w ator 
+---------------
+To be or not to bes thins the he the corst ard len have at that wis ay tor theatw
+To her nonto dnone l to my f o Co tothell f thop thoe
+Nour por thendis there, athe sthein thas lfefror acr or wistheder:
+The Ef an thecoou y shour wat sesthe atheartt dour art athall w.
+NCELIPy ERITER:
+Poy shince thit lou sourld thith ourd Oorthe art suse theingf and pond
+TAr te cisp lis larnd's he war ending cyord tou I no his tho'd nthard,
+O sso the hit I wean cees the:
+And the po beor, wsund pof are soutillld hairs lis Thino bons
+---------------
+To be or not to beneerk this ffee
+The thind wintth his he wee biry aker o homy ourtheranf sallthind
+An if cotas meim inds'd lo has. prir yomis halt we soury shint gord he atof thow ge heath.
+
+HARTRGNTOLARDUCKUS:
+Har weeedirs; al I bmome foush wis, sicour win prsthel hans:
+I than; I thallive ha wollld the this.
+
+Fof IUCORTIKEESELA:
+Whal:
+Told boty thureng belild hy the my u sant diur he the beeall toof?
+
+
+
+CRULETISLY:
+
+Tol has so wind Endold wind wive I your uvers shou guthe the thitht poure w.
+
+COLANCETHED:
+
+
+
+Bu
+---------------
+To be or not to bes stho swndsay deckn inth.
+TUCEOCLETARIO:
+Burall san we tor wo itham ushilf y my hosefor benghids me,
+
+Tind blo Rof I and thy ourmequsow eprshouem hither,
+Tonoo Ethirur har tho thee my
+Anou cor theand I fro cherd ptheevict yopowis th w;
+And musond Sular withte pof belis nd hellof,
+Th thars heag oull chis wie f cupllout bin byo honthe tan hamy.
+
+
+LPUKINCEEK:
+Lour'd laimt henoor wnd this corth that us:
+To thand itor tow mometh ou ginthit my thand:
+QUSor d pran y thit s toou f irind,
+Toss bait hais
+---------------
+To be or not to bespt bandmyourss tar,
+I at kil fo w al fal'l itw whew mer the at thind;
+G thind I thet she hem the hepucers peman id cked my I theris te.
+
+SGo OREDCANCHARTELIBUS:
+Weand, peand teen blip chaly ue ath tker I fond LAn your you He l woll a bo the wint thatoused,
+The d yo be wour whur e m whet fo tuthnous mailld
+Th wsbrin s ben the thind nd searmpas har yond topr stlo theant f melabend
+HI thand an theis mir hcand f theer hee y ay f lourrshamy Kile lee,
+Lious s I maris eath wit gof sher thin thiss mite
+---------------
+To be or not to beeged sthe,
+HOrd sce le or I waily kiss daven thelll I I atat thalay ideth in thally,
+Nou Ho he hay the and thear thar han hay.
+
+BRICET:
+The pot theakes these apart tcowe thend thendrs-s I how o hand,
+Ro ghaird, weachyth hat madee taurs atowe hate orind Lo cheandsof ple or her erntorss un!
+
+
+ANGHUCILNTIOPORE:
+I horse thacof fand o hind mer seare bel ingeve wand:
+Hebus larers toumy I thitou hand aich f ome botor,
+We tk ha f my ave aith toung nend cow thy al my u merimy cnour to soury ou tour tours
+---------------

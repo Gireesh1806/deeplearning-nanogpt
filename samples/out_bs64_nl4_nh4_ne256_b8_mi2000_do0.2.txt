@@ -1,0 +1,150 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne256_b8_mi2000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to be stais,
+But love grie for in have my the we me the leftle,
+And the hast then don of my brith not the cumant the areople be heirs' in a buil
+In mell ther prove hime of him the gentrace muse mar fit and mauls my knaint with is goodd.
+
+QUEEENTIO:
+And not may is will stay, what he mist and that as of sill use
+Lace usto the groust the slast thouly smar my his of my speate sure told.
+
+Serving sir:
+But the prow My praice my and muss whose blotd is our will ove moods,
+But comes no, she send the halt wit
+---------------
+To be or not to best?
+
+QUEEN ELOUCET:
+I seet! not with thought, sirs;
+O, hope what frain the case; my like queast with the eyed have thous and the sicrace?
+
+SICHBLOUCENTIO:
+My misk, it o'er, not the day
+The not whomeo me and and my sun man Rome, to not twas somion of merly,
+Have the my be adord frome befor and of affor that thy dest mile,
+And stay, what may to the of my his to lave afforn that for must the and not is benter
+my it she commile protore wer past,
+My with the shalate those me
+And loves dider not sir p
+---------------
+To be or not to befor lives,
+That like por to I mot to so no price marest that in of Guit,
+What is am do the fase that out moreter lett a kill.
+
+LUCE OF YORK:
+My give sour the sest 'say: with it thee
+Some love the son thought---
+
+AUTOCENTIO:
+Ro masce
+But you do caur common, whose the that paito fat thous uppace to the pason loving in most the parrst
+The have pleving bese and me king the disce! and to the of thy hats and
+I this thous and you his tellounst so my despection,
+Rom to the dism food and my our Comment t
+---------------
+To be or not to beling an To descome.
+
+RICHBRUT:
+Marist alm thoust not a the my shalt in thous,
+Now that in accant thoughter post we him and, when the wore the conds
+And of the ster, of of that in haven uske liends this a beath entur brove of is thou.
+
+QUEEN OF YORK:
+Une in may; saun suea; the were, fay,
+This thou, for may, lien the bagnine and and I how quece the veitioun,
+But hown the greace we such the king a thout how my brouse brood.
+
+CABUTH:
+You, thin many the hone his that all that you and so frage a me yo
+---------------
+To be or not to bellord
+That pitio, my stripist pard king ennd the brot my rescomme man enderturesil's diste pran,
+Thou my low bring and dow the preves vains riguir
+aland dow their or the of in fet: why have and on in stay,
+And god fill un thoughe is your of faitior!
+
+DUKE VINCE:
+And for king and my the armm the have better,
+The king that so
+the deat you vion bases what but old bends and the camt to the vious of beast thy maicimpaning not?
+When not my stray, though is nors in refor cait,
+That mush the from mise o
+---------------
+To be or not to be in lettrust-proveries;
+Welt who canst wort dot to fair though to their maught
+For suntriefor as you off'er the vution to world his marl!
+
+Prace.
+FLORTUR:
+I somes sude cervings a retter, lets come god them the have to befe do they for what
+In to that the good patk in of fearvate sone,
+The Las cafe he of has not, from the some alsh strour main lest.
+
+COMIO:
+O cove you, some but the shoulowd, say---
+I plice will my kine some, and king youry that my him sould,
+Or creanting pur broth mught and my le
+---------------
+To be or not to beturmure ares,
+Of goodond this me it of your would you must to main.
+
+LORD II:
+O that a worce meake, bants usonce the rome Is in with brite
+Ther brost is do the sen, so morth and is from woal.
+
+My most that the kink mukcius of the for OF YORK:
+Then thou of and affervires not she bedt boted
+Of the peart is paupence, the scomtre the some mon,
+Cond to but the her my senndrace but the that love of gent laugh prongle
+That that if you again that the for homionts but uson counstan ther bocing;
+Ond as th
+---------------
+To be or not to be mase the mose king and able ig
+The olcomest word. The wish tear,
+The eyet thou he ruves of and the mear, son onoud day that his fall suice arrise,
+Whose commy but then with what reat our of nows cear destre,
+Ared the paive the fries, whos bell which firster peakt bell that again ustrous
+To as commy shee trave hosend much,
+Of the for the geto and that ubot him! That that like brook unce the make any forom
+And the weer matciouse serf bleat a pascand more lover plost times;
+And amain that is for b
+---------------
+To be or not to be for me my stime.
+
+ESCALUS:
+The some as in first is in the re's rack my king fraitio, your,
+To such his shold my may our comred's or stort loves they fair,
+When for bist from of in eye you that my will of comes,
+And me dids? Wore the onrught wife the may that not a pait of the onces be of and comse.
+
+MENCENIUS:
+Hen the peast you.
+
+COMIO:
+Now is and good brauch faul sude, in Rives.
+
+QUEEN OF Then:
+Most teast sigh, my For the broth loot
+My be them do broth the with shose soriusts fratel
+Shallo's s
+---------------
+To be or not to be that in our like our more,
+Noin not to clains thre was sten me never be from in must they.
+
+KING EDWARD IV:
+Why, show you the tYbe kiniont, I do thy prain thrisany use and your the peajest
+That the know adve thy rett wuat as for mour nine toat to they;
+The dest from fath mark thith out our a vious word.
+
+JUEEE:
+With of low's me be me some I moke Edwas sear fine in be viter
+Now your briesd his men wrect the dot me of this ustrown the pleated
+I was a deecoust on but with in bain of dead not sit t
+---------------

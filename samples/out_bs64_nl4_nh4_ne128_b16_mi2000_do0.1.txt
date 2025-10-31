@@ -1,0 +1,266 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne128_b16_mi2000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to betent.
+
+CORIOBEOLINA:
+I ploy, bord and you haven on instear,
+Bart grows with brey: not the wish fromanest
+And your day at behis comest on the of him?
+
+KING EDWICK:
+UMINIO:
+This love sill will writy peart our this
+In manry
+To hom ust sukil be she sake broove thou dow!
+
+DUCETHARS:
+I be do marting addlawn to this:
+Their hum not
+The tin blay to she doword, the sick sto in
+The stemitorter, ander a dignam, the gone,
+Pear own, my pe morth you the ager: wearst,
+The cornnot.
+
+ESCAM:
+When of here in sto to
+---------------
+To be or not to beth the tollow
+Toof intrere such lachaustan this lave in hear many;
+And Heave death, and he firse, stish arthem.
+
+
+GLOUCESTES:
+I say, and now be this to my my scule: on beother
+And that it the applain at and thy shouboth
+to may not mechive me, in our him, brove to mand,
+The a my love to sorre then somesele him
+Or the fror thou say, my not be alaond?
+
+ESTHARS:
+Ay, and if the dood to to will ounton:
+For and somen ontry of borther benss,
+You vengst an me. He stair hand you quing;
+And moce, and you s
+---------------
+To be or not to be mighter uspice;
+And yet I whill servens for deance,
+But with made my heasth reasting,
+And us thy so hopee martue of sinder of thy
+You daward to a conce her comter
+To shald, so far the charde with, well on shold;
+Bowe with the quent of tractiont:
+The when manir to the sworder shong.
+
+
+Ford, Inlear, for the raster some right.
+
+ANGELO:
+The that dought
+bather in your have shald the shalk her
+Than haghn alling a the tyearth of to me the firttle;
+And Go of the you hover farth your pousterse!
+
+LEO:
+Cr
+---------------
+To be or not to beth to to whrom the for cempois
+So in thou and shall behave, the come for shals
+And there purd?
+
+ROHENRY:
+
+But your shal and the weart the how him,
+An farr as weall our be shald so all makrright.
+
+
+SARLUCULLIIA:
+Well and live if the see to mand
+And hear counture the not madpon a death.
+
+DUKE LIZABETH:
+Come I surde her mage this rich,
+Come, thou ast, you so didice: you would be madst.
+
+ANGELO:
+I good his bother bee some mest some
+that your as mighty, own shall hand.
+
+
+KENG HAM EDWARD EI:
+I way, fe
+---------------
+To be or not to bestlf and her with sajoy,
+Now mare. The what go some will and her tooom
+The madest, of Thir a mother.
+
+DUKE OLEO:
+Saw, the who rethe him fordather conter,
+And she dence a have beast band come anaw?
+
+
+CATIO:
+How live:
+Thell good that seal deather.
+
+
+CORIUS:
+What some that peartiment an of the mone.
+
+
+DUKE HEN VINRLAUS:
+The so me fe the wordd thou do our mone
+With of him your lave love oustre him
+Leath, be so move to prargle to how morre,
+The must the courdent as and, a hat hatht
+Shonour a your rea
+---------------
+To be or not to be lead!
+
+POLISA:
+O wherel ago new his mangentring be comme usay.
+
+
+HENRY BORY:
+The will, my for Come, will fearth,
+Woe lave porting thone, in yathers heir placcing to and
+Pordicerel'er: the welch they of you,
+In wither, in at good gooder more, and where buty thour rig!
+
+Whone uncitiles, so, shall how like reas astasule?
+
+
+KING RICHARD II:
+A such shall lord!'
+
+CATIS:
+He come, I'll commen of the lide.
+
+PEETIO:
+I know him dright?
+
+
+LEO:
+
+His good port on toself, we and you----
+
+GLLOUCETER:
+You so di
+---------------
+To be or not to beare.
+
+DUKE VINCENT:
+I moines that sains wee; whou asccome, I and.
+
+
+COF ORARET:
+How! if son, so im; that not heave hir womish.
+
+
+Nursst!
+
+DUCHEOF ORIO:
+What not whoe heart.
+
+HESMINIA:
+And anater be with in the comemptran
+Me heave sow you in of the ding a read,
+Come and incleasuriled.
+
+
+KING EOF YORK:
+He ding thast madim, lade;
+And deand be in ance the counstrand us in the bege,
+But for this the vearust to as so mided;
+And which shald the foulth as by gut?
+
+
+ROMENO:
+I povener.
+
+CORIOLAM:
+I dow no
+---------------
+To be or not to be word sown's oull.
+Least formome live and theart
+Hanrwerting of thandum the by the soffeer my lord;
+Begeink the mefele; and you blequeenter shous
+Forther, sonought wrund whath so semmb
+And a who sme do mensech he pright.
+
+
+CALUSTIO:
+No;
+And must not that state pord this no heir sir?
+
+
+KING RICHARD III:
+Deain your lord, by his gose,
+Them what do come not him of to.
+
+KING EDWBERGHAH:
+The corthes thou a to the rive tothe morether
+And this my readis, and her make the jast.
+
+MARCILA:
+I go, not thou s
+---------------
+To be or not to beste be om of sor a shy.
+
+Sitless wome farcioin, whew is fort a know hand
+Thy courtrrawer in my reasure
+To the a beatherd. He good, thee love heard!
+
+HENRY OF YORK:
+I wear not me not disher pare a trem
+The forthe seen.
+
+
+BUCHARD II:
+Oa be to the to into sometty be your buth,
+Of I exmown the I not you mage wind nobrd.
+
+ORTOUS:
+That and Is some should and to crowll,
+Your sich laws dooks the sanst him:
+I should for to made mady for the ham.
+KING ICH, I our such this not,
+In they sher to do sissuning
+---------------
+To be or not to be god so thim be scailt or her
+Thy king diven the hearts; the in way.
+
+LARENCE:
+That let the he have do madlty as ther him hagoinat.
+
+
+CAMILLLA:
+Sir, I law in and, then his how,
+And ruse the woord.
+
+KING HERSCEN ENRD:
+the be made can, so to me hearth ben,
+The and of all or her done: prece!
+
+
+AUFIUS:
+No do me dight.
+
+Sonder:
+Hand of she me with the lackest bearty?
+
+
+RIVERLANCUS:
+How staitor, and and und thy good,
+We skeh wearr and a to to agent.
+
+
+PEENTIO:
+Om them live such murds, by on to word
+To
+---------------

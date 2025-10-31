@@ -1,0 +1,207 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne256_b16_mi2000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to betters you malk
+Which a on in hard me the me migent leet.
+
+HENRY BOLIO:
+Sir lady poir! This hand, the with thrim, anot my lordice's
+For as hast follows repoon on your dring just behous measur.
+
+SAM:
+If man, fair, and here is our grows, cold name.
+I name a ling's speak ward. Do this war!
+
+SMY:
+How mail the fast's storth her them roys, sirt o' you,
+Do let of greath to not and than must my were I ble mare
+The king have our lord soulsain.
+
+TRROTH:
+Sir, sir, thou so mork my sunts shim and that I for m
+---------------
+To be or not to besick and state, there this madim.
+
+TRANA:
+Takes this face mores no Mare the death,
+Your froman's with of extion of thou days,
+And in creasus of live him a prociantnitence,
+With the daught and for you me and love must for
+Thou the grown, and meirs all the world have.
+
+DUKE OF YORK:
+Mise, I would say the sambery desprishere.
+
+DUKE OF YORK:
+More that as word honours daught nother, my presome,
+And theirst not throngleme us dieceps,
+ore wer part, with Here me hight dig sove and mear.
+
+KING EDWARD III
+---------------
+To be or not to before the show grace the it.
+ISABELLA:
+For enemer, greet that in the with to hers,
+I dis lettlemer a ropt. That thee honour consure.
+
+DUKE OF YORK:
+I sourse here this that bring thue
+Is hall and to greapty
+As rock in and and me of come than botter,
+Who so bown but letter appition honours a.
+
+Second Mess:
+First in his soulted man well in make.
+
+DUKE OF YORK:
+No, you do made my leave me.
+
+HENRY BOLIO:
+I'll poriture that propperisone hopest of our head.
+
+LADY ATH:
+I honours foor and my our Commentle
+---------------
+To be or not to beline can: the confer with me?
+
+MARCUTIO:
+Lot that he pairelt is as time more,
+And I hour races to do pare profore on on it, when them spert.
+
+CLARD:
+Well in servin, of more humberinate, Lord, I am this a battere.
+
+JOHN OF YORK:
+You as I cannot mine subs in me, liven sue hope
+To reath walm to thou, for man, lies warth goods
+So paen ento her were take to stand purp'; and great when lord
+That in a thout honourable spinty of your hope,
+We conper not drice thou dand made this dids:
+I shall gener'd yo
+---------------
+To be or not to beling and in in granter than the mank,
+With resaid's servord cours mandemberture in't.
+
+DUKE OF YORK:
+Any it and be gread?
+
+Sheph:
+And mark not sire lade driend in or thou with father
+As her, and must. How comman your grue tire.
+
+First Murder:
+I am must not gries dise, bread the some our womany.
+
+MENENIUS:
+Is we lord, looks,
+In the come this gave should but of the die.
+
+MERCUTIO:
+If the vious of heave thy maich a him: not?
+Where must my forgold, and brince in revile,
+To live to shied, for ages yo
+---------------
+To be or not to befine:
+Or the proving heart then made the him hears,
+And thou friersomith thes to last this kings as most eyet;
+And sin to would him and he counture it what shall I
+die cert that in the reters connes the levengers a forberind
+At with your loss'r Enges the good patter!
+
+AUTOLYCUS:
+Honour, tiLy be for forth, sin, it I with he for hands
+One we drace, that not she man your some.
+
+LADY Clarenot:
+And then that will not loves hold,
+Nor know your says brother soult be to have to pur brother good.
+
+CLARD:
+---------------
+To be or not to beturn's there.
+
+LUCIO:
+Advenge me, in sward thou in day.
+
+KING RICHARD II:
+And speak in word, sir.
+
+First Murder:
+His righter in with are and with of you daitend.
+
+CLARD:
+We hast, your fathand,
+Is most death common's pution on the for of thou in help.
+
+CORIOLANUS:
+Richmon; my lord, the lettlem,
+I parreath pated sount the to refersond, from in she on my lord,
+To huse nor do butter madayter heaven stricure prongleman,
+Some bidter me in the hand gentlemaid.
+
+HENRY BOLIXENCE:
+O lipon of now must some
+---------------
+To be or not to be mare the mones your this seak:
+The alcomes and throught in time,
+'Tis dother, and roppast on and with Camisent.
+
+KING RICHARD II:
+I, sir it in heart fals's dones, think this partring our of nows
+Bespeaks facestrace to ming speak, with not belows in this de'er,
+But from who deat enst with in sace my shee.
+
+TRBOLIO:
+You am, for this art can, on Glord!
+
+LADY ANNE:
+I'll shall have honour dread, the can thion, how as weep a this conserfull'd nate!
+And he know are of honours guil hamean that in the b
+---------------
+To be or not to be for me?
+
+KING RICHESS:
+Thou the direate manios, in him lords's roath;
+Show the lode, your, wors in him shold manys of York;
+And our stort loves the king herefold.
+
+LADY:
+That in our feast that me wardon hearts,
+And send not to be that regoinst in in me? that not
+at mine thrus onces be of and comselarth leave this new tage.
+
+ESCARUS:
+Who ow on, and good brainst law some, in Right.
+
+LADY ANNE:
+And but soe.
+
+CLAUDIO:
+You, and bading hother, and will for heave.
+
+PRINCE:
+This in to frantlament o' is
+---------------
+To be or not to be that in my gling humberts,
+Nor were to cling and him the did hone;
+That fold me sost this frome meak!
+
+BENVOLORD:
+How you thou man! this that do the prosh throw'd:
+My lord, from, where hath tard but froman,
+And arrice unto dreath, presinter and of abornence;
+No from is he being king heave.
+
+KING RICHARD III:
+What were not, I me respect me: thou made no so main
+bidy, unter whose is the bading; my with blood do.
+
+DUKE VINCENTIO:
+I am that as this prave the shall be plies, Vouls hown
+And not sir, 
+---------------

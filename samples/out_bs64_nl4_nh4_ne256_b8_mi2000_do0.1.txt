@@ -1,0 +1,175 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne256_b8_mi2000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to beconatur untrive again for in hear
+The the et, the she that frade the fathe lady poins in king;
+And she make the areop made heir they aresir,
+When they rept no his of me untles timends
+As shall fit to that some and when trish in grows,
+They naughtle the will!
+
+CLAUUS:
+Now and love than they of or thild up tas saust bed
+Against the slast thou love our live of hous do not and
+What lover now; as hole en than breath the will,
+But make in on day for thems ove mooth,
+Brey my such, ship and them thou li
+---------------
+To be or not to best?
+
+QUEEN BOM:
+Now, the then mus
+As though thou some thou vers: fir me the dead my like quek
+Whose you, and shall thou day the goodrited:
+Shall the his commonisn,
+Rame arent, they do The and from for mean sleaus,
+Now mand or the grace, and meife all the ko truttle than our deast
+This from my let feart bambe, our krown in my shall,
+But may to the out whose oncled deap.
+I pers,
+Gramprest fraith theirs here tmraitast but diect
+Romore wer past,
+My with they hight dight vill in loves.
+
+QUEEN:
+Burry 
+---------------
+To be or not to befor lives,
+Than live porier'd met to she dependracgrest of this peraugh,
+What is am dist she see hase, the Hatkrile that dust us come,
+But ounhing throus the sent 'tt thou his hereitor
+Ther and to greaply't rive of that and me of chose alvend the recurs
+Prown but letter, pawer of one hear.
+
+Second Men:
+Not Comine in most the parry mother:
+They visher:
+And eye the lover'd hen sent to the of thy hath adver?
+
+RICHARD II:
+I prect any housa look will hold,
+Nir sTilted, this grave are my our Cution we
+---------------
+To be or not to beline can:
+We scome that's mount and that coto bade to pire
+This as time to our some houghtaces to do prest so stren you.
+
+DUKE VINCENENIO:
+O scond, the our to the for mother,
+And haven ure, liends this a behorder up broth,
+And thin and like pale arm'd he not it saunts take do our ride
+Olm to thou, for may, lies Sack agned and paen entle queent.
+Save to so, have o'r so briel unle such the king a thout how my bring's vistre
+To hopple her thou hase druce thou dand made that you arm so frage,
+Yet yo
+---------------
+To be or not to bect of and ken,
+March once is sperd, what of my dayst so his commen his und turesil's dished the deling youth,
+Thou was doth come to and my not unre lade dract.
+What him Go teat be:
+On shall and grace.
+
+LUCIO:
+My doffll unge, age ball is becond
+Sher!
+
+DUKE OF York Givion,
+Marcan sumbord, what me, he king ores,
+Sould strase and were to be vist backs what but of then deak
+Make the my sing broth of be thiness,--
+
+BUCKINGHAM:
+O, then him my forglauged bring come you,
+The hard grook and did the graces
+---------------
+To be or not to befin dest the sands
+And not then move the his bes end what this to their and so wors untring:
+The counds, eyt do but in broth his me,
+Thou ared our kided this dess sude centriece orly
+The let, come god brominy, he word, when of the king the him of sas the good
+On bown of fearnate son; may in for for from he come, fread,
+Ans for hand the lived, les the from she may.
+
+ROMEO:
+When the should druely---
+I plick will me kine some,
+Now king your of and the was a preconce this my the prahre good.
+
+RICH:
+
+---------------
+To be or not to betur,
+In are be mage your prims,
+Which with thou in day.
+
+LADY:
+Eis me you all such in may.
+
+Not thought strise their royal.
+
+LEONT:
+O the his the not is do thou lover.
+
+LUCENTIO:
+A freen tall list of mast lovet,
+Or make' sing the for of thou in her honou can who dever of hear broth;
+O sentle bego from is paupens untands to rest thinks mon,
+Come, on my love, so he son
+When but the that flack loves of und prosh;
+Rive commaning when in the han the a howird and his of counst he work
+Of now the knot 
+---------------
+To be or not to be mase,
+They never that is sence as and thou had through,
+Leave the fened, so he here and to and the mear.
+
+JULIET:
+That that he's shid bidion
+Master do freed prastion,
+Thus pauciars work beatn what speace facest do her mive to and with,
+So brive his this de's weat bell that deat end twell,
+I sack my shee trave hosend me my fist come that me on my peak
+To the me just that like brot in hered
+Are me tho crobt hou and our match our sore the min that god
+One lover of hom in this raim and pase arm to 
+---------------
+To be or not to be for me my son;
+What's sees cous nord.
+And firshall him letters roanced whet fraitio,
+Which wors in his should more ung this but our stort loves they fir
+You fell.
+
+BUCKINGH:
+By for they most that will of comes,
+And, shinks? Wher that in good in this may that not all it of the onces of ones friets,
+And his cied, you with of my bect must go more.
+What those upt faul suded;
+On whrong cent award the cominee.
+
+CLEONTES:
+For the broth latter our them
+As broth the me you best aring, his help goode of 
+---------------
+To be or not to be Say with they that me they do bedom'd
+Will our, then the did to there her laude anst they.
+
+KING EDWARD IV:
+Why, should set, remploke ittime our the pray.
+
+GLOUCENTIO:
+I king of propen had in my but froman,
+And are Comuck adven, I prenint to that will;
+Then the from is him him in deady, and and him the king see.
+
+MERCUTIO:
+Head be me some I make and sust of in bidy,
+On thou have drubself hord me with beliged,
+The king it untret ware the and now.
+I'll best here brother,
+They such, dead not sity;
+---------------

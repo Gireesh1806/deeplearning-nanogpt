@@ -1,0 +1,268 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne128_b16_mi1000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to bete
+this it dof noth that he thor noot ooul se
+Ang yous mar, thar grong wwhauste bentt.
+
+Say:
+Pon and thim befre tome of.
+
+FLLOBELI:
+Prece ing your rit me fres sos hener oof
+
+AMBOUS:
+Thape ang ane to a't oungh is fromang;
+The hith thangig becesexie.
+
+
+Mor:
+Must wath is ay of intit ben with thealld,
+And to thit:
+The wit my with sitin blay longes!
+
+
+GRORDIZO:
+Of hirs ing I hese ith terst to meardy.
+
+GUCES:
+And fore an wore bupe morme yount muatif:
+And me to Go frony theay eame coase, ant the sthe a
+---------------
+To be or not to besere
+Thast me wilf ich treas o E, Whaveng's ting ane int and thench thous me
+What rear shepe fir, stof tor and and mof the more,
+And ther of blie she the lat speas: oo buotht
+An let a fitht mear to im thang thy shouboutht youren.
+
+CINIUS:
+I me lay cof fee rove to mand, ther ith fore tor you eelt
+I'lll pre hink speame lor thos ant yournthme
+Ance ing of thaghe and a you ough.
+
+
+
+CENGENE:
+Wer the or the angts son matht ost thish thins my heave
+ght an crastit this hat hou man thible touch,
+And muth 
+---------------
+To be or not to be migh ay domice;
+And pee I whill serives for deenceg meant and to my I thait
+Her the thente to note an the mame.
+
+PMABEYS:
+I mat thay spaing, theareen in you, cou you,
+And theme co the char his ar, thish tang lethiger.
+
+
+
+PULII:
+Cothoursere, thof dous I he and I wothe my bees
+And tho thou theall. a fore thorsss is
+The ricingh the combom a say and shy as,
+I ing This and shis rereng ta's thof now aghy alll,
+Be thaw you with cof mer thof outh
+I'l his for theay rander and fary ther easeree!
+
+
+
+BORY 
+---------------
+To be or not to be a to to whr dove you freaves:
+Sosing'd to this a with cou, the comered
+ang meang; ther ophie?
+
+GCHEDYHUK:
+And you that and the wou thing hou fore thand
+I as werll ome, con to dof and micrrighe.
+
+
+SIS:
+By micht nom.
+KING LET:
+Loth beeert eand bete have cof and miteng of
+Afprer to lof speare tof fore tof bars
+I the the that aill ing thou with.
+
+
+JENGEL:
+And to plary me peale me, con.
+
+Bong ICARI:
+And you barke bee song mean sot itll
+Ax thave micht i owers
+sus hande this com a farche hang boy sof 
+---------------
+To be or not to besthf and har with sajod,
+Now flor. Cost I LO:
+Whath woull my herre anes a she thaser.
+
+
+LOLOLNAN:
+By sthefouls:
+Wo mete foull the sof
+Tor tiathe, con But isthes fol's with nolle som.
+
+
+
+QUEENEO:
+To ton bea to of and afflleg ing the seante buth.
+
+
+
+COUS:
+And a a gosen, an afor mar'sat of efor sor is thare
+Goo with dom the sos thab af heared thon do ouan
+Thn hin ouch me your loough affors, bende
+I him ous spue itht yourr lom and?
+
+RCERE:
+The mis ofe ordomer to ine bome hat fatht nor omin'd a a no 
+---------------
+To be or not to be le ling to he the corel and len he a ang
+Sor wis a cofre ueatich, I I now of nore.
+
+KIND IUS:
+Co to wollll wo promoe,
+Whe por thongion to win whers hein thas.
+
+
+MERRIO:
+Poich, willer:
+The Iflar thee of you sthou thee lis ath,
+And dond art and mare. Nof I you the sim!
+
+Whince thit los somel, thith of ithorer poaty usthile beftimer to ther tere.
+
+
+
+BES:
+Ine's hee a textcow;
+And it you no ast tho'd nemarat ink of tro sheer bere
+And thy:
+And the pore on, when aple.
+
+
+LOUCIO:
+I andirs lis your sours
+---------------
+To be or not to beane.
+
+DUCIES:
+Hast commoingsntt.
+
+YORD:
+
+I me preake, o and hour I wand lam, hing
+I'l for tas moneniobs'd lo has.
+
+
+VIOLEN:
+I I thou so! youh mours base and not whof heath.
+
+HARD:
+Noot a if ane quier
+ANd quol mis bule.
+
+
+DORO:
+O, sich bedin of the me hea rone, a I ligh incllase;
+And the this lis for sicke mest astour.
+Prele boty mame, to coind hy the my unss the us ince the gron too
+I do thish an willl lo as so willy;
+And whit beraid theef uvers shof gueres wo thiththe soone.
+
+COLAN:
+This you no
+---------------
+To be or not to be wo mos whas o de.
+LOED GAT:
+To sart you not af noun leat.
+
+
+LIS:
+Bucuch,
+I you thos for or ploon me, goink brom
+Af Ind and yous meque:
+In, shoue whithh hos noot tourur;
+wh thou the my anou cof your dof
+And creculet wo the you wis the tour touse.
+
+Sulk:
+I thee poring if no hell tish tof minht grovie cour
+I ear cuplere con fort ose beand whe oun cof
+ble the and wof lof the nos fracit wherd.
+
+Row ICIE:
+To that sit tothe mometes a singng of
+Theard:
+In brod pron you coas to grooved ance?
+
+
+PAS:
+Bowi
+---------------
+To be or not to bespoge pomeon
+sre ake I al kil for col fak'd iff whew mere yous; faith;
+Whis das my to sof neme the moucers prione dand
+If sier wor thof.
+
+SGOKEYED:
+I do prof ther and uspen, and I bit woully,
+He wor thour for, nos you for.
+
+GORORL:
+O, but wo you me don seart.
+
+PUCIER:
+Oure, whulle mownk fay our nour magh.
+
+
+KED!
+
+LAN:
+ARo ENome the nous sompaur aing!
+
+HAMIUS:
+Bow Your sis hoube doat thour an.
+
+
+GUCKITI:
+Whil cor momh, you you lou morthin lovele.
+
+LOBED:
+Welll is you, I the you nombe, for shemite
+---------------
+To be or not to be goo so thie be sceelt ore.
+
+
+KINIO:
+I fave los ble I I a ank noway id than hat lay,
+Nou so he has you maglt cay thar han your ou
+Anl aces went theakes thes bop.
+
+
+
+RICK:
+And me Inlous wer lanoth.
+
+DWRIIIER:
+Ne wouldyt you you wechaurs and a thealle ben,
+This this gome or her eant aps un!
+
+
+ARDIULI:Noor coghare fose.
+Sthe I and of she merese to belan me theam your
+is laghts toumen strit I nous aich fande bomme.
+
+
+LUCEDA:
+O rove saind toung net mong any a me themer my shong tof oury of tor ond
+To
+---------------

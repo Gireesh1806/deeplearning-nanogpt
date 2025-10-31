@@ -1,0 +1,229 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne128_b8_mi2000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to bete this it dof noth the pred?
+
+JULINCE:
+Bothe not you near, ther grors with brey:
+Thy the of hat kimpesices fraint and the him
+Wills he thing your rither whe my souker hoold fallt,
+And pet therse to sit our this fray.
+
+
+
+The him, then is bele I saut beor to know the sway outhntie,
+On with theath whas court hownd sike.
+
+
+
+
+CONTIO:
+My lay lorsester our wreess wellls is be heans,
+Whie stay ercardy on with with haser ont heer?
+
+
+HENG VINGLIUS:
+With wearre to Gistanny,
+O ande the say enter thenst tha
+---------------
+To be or not to beth the that to boftiate,
+Have bEs that wad this the my that my ench theeerst
+We thath cithef his, stif that that and dother him,
+And his nown lie she shay mins thee our botht.
+
+
+
+WARWARD:
+Her:
+Whed, hath noth besst botth o may nobutech, is ame lay
+And hem rablle, my all the emporous to sor eeelt
+I wor pleath thou he flirstare and yournthmer allow,
+both they outh and in the dake the with urcent on the andts
+som math wost or is thersser undversss.
+
+
+COMARS:
+O, Mortth you quir fir on ous,
+And mue s
+---------------
+To be or not to be mightedr'd
+Bopeth hoper tremiers, I ray him deance,
+But with made my hersight bleis,
+That us the ea hopee mantuer and this of thave theat
+Hatt I'lll me her am the
+And that you in out welle his ar,
+And lovesss four it.
+
+
+
+PLLOUS:
+Ay parterst thou douse houre we the bech:
+And and fir thoou theath ta sway thousss is
+Tibrrt is and encome a a say abuts that,
+I in your havers him the shauck.
+
+
+
+TLING:
+The light a that you with her ell trown,
+Rest is him of the you hever far a the
+Prpeast is flie the 
+---------------
+To be or not to be a the mewhr hith your beades:
+So in the bancus a with an the this ured
+Whis sand o the ophir?
+
+
+CHEDY UK:
+And you sis wander bored the preve aBeaht that our werll our,
+With by should mak'rt her min thowsiss,
+Bood he with my is the meert eand bet.
+
+
+GROMINGBENIUS:
+With masp ar the my stear broth on thou dads
+The with maght and a with our wold ther,
+Wis with with my me wither noth,
+By freth all tour him bof kint our ther sheall itlly.
+
+
+First is hav ows shay heme elll with faifths'g hand by,
+And 
+---------------
+To be or not to be the have
+Tho looksse of bessell for sto reagnts the with my her?
+
+
+Geard The thath he mirsarrst noth they.
+Lomest, her fay our the helt your the clivelt is me
+Fril'st a havell' so band come anaid;
+To lomb thens and wither the thar seay deands.
+
+
+
+WARTEN YORK:
+Hens you meaght mand and vee prestellok up thand with with.
+
+
+
+RUKICK:
+Whe word the neem our my His groucth I your laye,
+Gir oust by belelliers on quewitht your glock?
+
+
+KIRD RIVI:
+Shall oue of or come.
+
+
+
+
+QUEUN OUEN ONCES:
+O meay with mi
+---------------
+To be or not to be lealing the me:
+Hon hat hearll fhave and hat wis a clire
+Postier, I I now of nowe.
+
+
+WARWIURD CHARD:
+All frust it obel the or the sidne.
+
+
+Firth, shalin the clay to all mor with buer:
+Wat Ent hears, our your is my eent beath,
+And wore art at all will you you the sim!
+And not this lokes that the heas it orean tat suell
+This fay ou to ther tereiks lie larnt's hear deeatcter,
+I'll cock not sould 'as.
+
+
+
+ENCOLIO:
+You him srears bee that:
+And my byour outhou him with brootther all in wiks Thinow one
+---------------
+To be or not to beane.
+
+DUKINCED ARD:
+I moirts that sains weers theath you our of the and
+And this olan fichtas of my tha'd line somp.
+
+
+LOMO:
+O his wis thy shay lecomese and stiow we heath.
+
+Hosen I Sell is all quied
+Gedirste fir om the the he she bust this orst,
+She hearr our a solld, incleas oll with with me:
+If thre dearth mast und:
+The leath made, they in ance the tou speaid us in the beealls:
+For the thers vearust the sus am dome to thast bears I you
+And hous by gut endwelllieds ent,
+The and the in fleast i
+---------------
+To be or not to be where swhas ourl.
+LOEET:
+Tim shall my kint mall saim to ir wout mandue the you thoure.
+
+DUKENTIUS:
+Begain:
+Who mefule; sirs hos meque, I proy,
+Nown, herels noot therur it by the semme
+And ploh theand they merere faill the you wist my tourt,
+And whould best, of this the now then ince thans,
+Whit wis cille in thou lirght in byt hour lacaght my.
+
+
+FRUK:
+Cay:
+Bord, bellioush not fince. I Clorth that with oure, this hothe mameths a gintnijomy;
+Of is the ind prak you hold to gaure thand is plaitshais
+---------------
+To be or not to bespore pom of sread your thitle
+Of cal fak'd in for with full a by for aurth dast the wore heast
+Them in the fis of allle my my with sue.
+
+Sim OF VORICH:
+Thou ther mand, pent, men seay with you lake thor is be,
+Sthey anf the she woll a but we slatitid,
+The wour he your bupeffthurse mownce for thany,
+Whe they mans, he stay ond my ther her sompbe.
+
+
+YORK:
+Sep, stlow Your sis hours doots the san.
+
+
+SUMINTIUcK:
+They be and you yat lourrsht a Kise a hey is mus ellle.
+
+
+
+WARWIY DUK:
+Deay so four suming
+---------------
+To be or not to be good the well mece. 
+
+WARICK:
+Comefos faytu the he wis a and naway in than hat lay,
+Now swake has you maglt tay ther hand aglie theld;
+The pays with shands, and herchars and merenly
+Rewns on other ware groiode, pochyts hath ande
+Hath tand a hath orer not the our shall our the die:
+For suor And Unouth doume die frie.
+
+
+
+ENGLUS:
+Wher Jurd with the landes theat you bis lageasue,
+And stay, I have all und that tore wellk have my and.
+
+
+Farther the mand thy all you mer my muners thee by oue
+In ot tha
+---------------

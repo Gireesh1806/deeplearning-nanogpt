@@ -1,0 +1,193 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne128_b16_mi1000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to bete this it do shoulst:
+Whe dis ring ongaul sespon yousp and than grons wit;
+And bent loure fore woompesich gey off and thinh to no silll:
+Whe me wor: the fres sos hene hooll foll the with ang not to san ond.
+
+VORIO:
+Gory, thim aurt sheng becesexie.
+
+
+Mor:
+Must walll thay of intis ben with thealld lasich;
+And wills with gof the this blay lons sues of cor prand
+Wit en o me the ith te sto me ca ing off thest nove grannt
+And the morme you the atif the the to Gomer not.
+
+ENCENIUS:
+Wore ant the sthe a
+---------------
+To be or not to bete the thou to bof ich treas o E, thaves;
+Nor bome a in cond thench thou for sto drear shepfilie,
+The hat hat a dere do of more ing you lasen lie she shis?
+
+
+GLOOS:
+I mabotheng thernal if this pold inge and thy shou ou he smay.
+
+ENCIUM:
+
+Where lay cove ee rave to mand, the a my fore to sor eeelt
+In blove bus thoue me lor thou sat yournt mow allow,
+bore they of this pilomg:
+Thid you with merent of the and sos mleat thost hin.
+
+Solls my helve gan.
+
+Her.
+
+She
+Tou hat hou my frof and moce, fthars ho
+---------------
+To be or not to beemie le rud
+Bopess freee sond his brives for deenceg mulle not to my muth it
+Her the thent us thy so hou! weally and sit ill eat. BuIn dow
+Hat mas the is you, cou yolll for, sof co the cone.
+
+
+3NTICAUCES:
+Mostent iner.
+
+
+
+PULOUS:
+And ableret thof dous f of and I not you mus sand for thoou theall.
+
+
+HONEND:
+Whe this is my ing as you thim a say and shy as,
+I ing This and shis re my heas her fon whag no ligh
+Burre witht with cof me thime of lows yo she fit
+Of ard deard mong youre peaseree for you t
+---------------
+To be or not to beth to to whrod the for cean as
+Sosing hou anc shas me han , the comered
+Whis sank dand hopund thouques.
+
+
+BUEENV:
+This wand the we sthing hou fore thand
+Ind heerl wour, cos to dof and mille the prich howsild,
+Bong me with my is the me mone houblle hean thim con;
+Re nos macplly by lof sof to tof fore tof dast
+Ind wherd that and a wome of will do thy you mine will:
+Ande withe me thand word sor wits for me barke bee sond
+And shis malll' siveas mins th ows shis nemese.
+
+
+EENS:
+And to'g wand boy sof 
+---------------
+To be or not to best for:
+Whee with sajod, bus flove the o re gopseain,
+In and her thate is she thaser ing ror mot noth thef.
+Lom splome.
+
+CABEETO:
+Whe lof that scouly nat ing she me sting love sas thand
+come anaing ton bea to of and afflle the thare and feing
+Of meie fars my the my sopay and will is sof
+Sor, she is thare my grour dof the sos that af hevert thon do ou wallHing
+Whoch me your loow'll;
+
+And Ino mes langrove so moitht forer lom and?
+
+Rome king con to neaclomer pong and, a hat fatht now olle'd and ar 
+---------------
+To be or not to be le ling to he the contl ago le funt
+And thy is shay tor mucanice, I I now of nowe.
+LARD:
+If she in, willll thop thoe love pore 'veridne.
+FRED:
+Yous hein thas lay to and mon scere.
+
+
+CLORIOE:
+Whe, shat ie sto is my son:
+And thay the sow mor thall whe whilly thou grim!
+And not thit low somel, thith dof thore heast sus file befay of to ther tere.
+
+
+
+BESGKENG'R:
+Whe dof acown, I'll con now ast tho'd neang thing of tro sheer bere
+Mest?
+
+
+
+
+PENTES:
+And ond osun, pon and you-my laghe doncis your sof s
+---------------
+To be or not to beane.
+
+
+
+ALEN:
+He that moir shet.
+
+You CHOUSTE:
+And of ondome, int son for ant his
+I'll thot sim im; tha'd lo has.
+
+
+Vody mis halll wis quy shim les shee and not whof he hit thous
+And all theate shis come ques fors mont four hove,
+I woulld dee sthe my heall ound; I ligh incle swollle.
+
+
+Sis Bolll for so deand thas our this wir;
+And mare the in ance the tou spraid us lo the beeall soon?
+
+
+
+CKULETI:
+You for hee so ming now low
+sholll froty thize hou an, gue sof coy ithine the wit hourmes lif thath.
+---------------
+To be or not to be wo mod whas o deck;
+Whord imong ling and theall san le to thou dof cume,
+for my hosef feren loon me, goink brom foule; sits dos meque:
+In, shoue whither, son of to rund werthou the my
+And poshe sme do mersechere faill the you wis the do the pron,
+Sulk best, of foulll yond hell fith tof ming aghours cous willl comeng;
+You my to soure tan nome of so and this of wof ling bean-sarencil wher
+And that us: to thand it to no mometes angingnit my thand:
+Ink ind pron stay. as to gof ire me nosspeait hass
+---------------
+To be or not to bespoge pomeon's
+You shy at kil for coun al'd isw whew mere sheat faill;
+Whilld of the would eas the mous and fur bea come.
+His swn and fallo mon the they prof ther and hepen,
+Whe not dis thivere and to me of mered I tan you prin your a bustwe slot the sof
+And his by shis prompeughe mownk fay the nou sthille
+ke nobrin sthe ond my the not coumpasiong you brop,
+Will mater sfor on, goong thou sans deime tharce,
+The he Mave you you lou my this lovele , Ifour sueld.
+
+
+RINCENIUY:
+Of none this thy suming
+---------------
+To be or not to beeged so thie be sceelt o foer.
+Corkess fantu the le I srace if and and thand thally,
+Nou so he has you maglt cay thar hin shou fat sle;
+Thou nou witke land fend.
+
+
+
+cove suen me coly she show o hou so has sire, wouldyth dany thee tan stand a theall
+Ind Lover andiof pleang here dit aps undo heave, le and coged thouse.
+St
+ENGHAD:
+Wher Jus hase to belan me theand: this disgh sue,
+won stre, I nak wolllly of neat bulle the sof my ange
+I dat magene sand the dal my un crime shong to so by ou to wo the 
+---------------

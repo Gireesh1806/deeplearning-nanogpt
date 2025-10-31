@@ -1,0 +1,160 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne256_b16_mi1000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to be stans,
+But louch it ano fir harge, sour me me tearle that flady their to toudders,
+And me him prect you wrindmed ood stand fire' in a beir
+And pleasexrepose on you a sluck dend that with have fire and and fair
+namous uncius in grows, cold name tome, now yies' have to but to lift the me say
+as reep lovise as saus them her them requits of o' you to me his of hour down burnd
+Tland sorring sias hole ever the keep have our pricison wain.
+
+TER:
+And thems to the Hend not my sunes shill and good lood i
+---------------
+To be or not to besick-eled, his it not the son,
+On
+As plowere with so faul downsw come me.
+
+SICINIA:
+Bido queast will come hat had in I is I have siding'd:
+Sham lie child ope minnen too bring, they thou diand;
+And for hear sleaus, not wauldor the
+Wrown, and meife all then of grought pay our deasion.
+
+SICINIUS:
+Purfer, that herous I many in From my well manst,
+Dord; and him to liked for name said maded tear and theirs? not tme, them bust it apprious,
+In pase,
+And the thee hight the suved
+And loves dider not srrin
+---------------
+To be or not to befor liess,
+I marlious of your metter's thee courb,
+And worcwer, and that to he sinmed; to hease that ort
+Would thee court, and with to slay unhing tord
+The hears mirrian ne sirre upon theers thee to some and reck ippan.
+
+ABROKE:
+Prove thy the good his poped hour'd forth, peato-fars.
+Where.
+And hou be tweould
+To child to be sin the poins:
+In pleasoling prese me you do of gake! and to to powes,
+Thet and-to this thou faremy peace.
+
+SICINIUS:
+I we heard me is nemane! of tom for and me to heartiend t
+---------------
+To be or not to be the carrous scors.
+
+RICHARDIUS:
+Aill alm the badner'd in manishauld: and boudd
+Masinisin, court's oup here of to shron it, when them'd truss
+Of her and and servin, of of that hear a kneved with the to-surparliess:
+Cork had treation.
+
+GLOUCESTING RICUS:
+How Sirlias as take I am and handle to thou, for with lies spete goods
+Some ender of queet thearding on, have o' of serve curly.
+To stay; this greatting fare musting bear,
+And him sorry nike his the contion
+And a plods and will hear fright the yo
+---------------
+To be or not to be threar that airs, too that to them we and diss' broth shre cours mand
+And ture in't with a man, pittery you bring
+Twell the word'd you miner duith lady dower bidd doth to teat be:
+Onds hear and mustaud; and day their trong.
+Or mines is and fair, reman:
+Stand of you from and and smand gains them heard themes,
+Sould strus, and were to be with basess unfer them'd.
+
+CAMIUS:
+And and to the be should with thy main make,
+I douch to mand me strangly our be threar,
+Sre, ince then would his in the groued
+---------------
+To be or not to be in ag to be-preet.
+
+MARWICK:
+By canst word!
+Edwas farrant will or main you slew, and this knows you prome;
+Thee me in boses him me, and be do turt it
+what shall I dies your parairld here els connes the
+Which am too on with of you don what and of say the good: whose!
+
+AUTIS:
+My me never they be for flow what min, I with I quees,
+Or thee we and to sortand to came diste of that thee slordom
+Blear--thou like will me know some, and know your of and their.
+
+RICO:
+I creasion! what praht proce earm and
+---------------
+To be or not to beturn heave sweer gody.
+
+BRUTUS:
+Give sway bowds in dram prave mant; so my for spers the
+Once shallords thee me paring the end to I pust:
+And wrand here me some the his am the weeps in the all thy court tath clake and would on the for of thou in help.
+
+COMIO:
+A friever with the I'll this the greath, be is paup,
+On sick, contrefuls in be died tood on made and som; be nor
+To bust armine; for knewied with a pron the mad that
+into your hour hear,
+The chous it we him at cousince twark of now
+Ond as to
+---------------
+To be or not to be mare suners.
+
+ROMEO:
+O see me call I course would of he say is heart:
+To say, and roath you fauld, I am day, ano.
+
+GLOUCESTIN:
+Bash, son it that him Julices peas, to now then crars.
+
+AGD:
+Ayn what speace fairst do hear:
+If sir, deak, whose, that is tonouse' peart be brow'd again spease
+To I sace that teed was and no surmy flord if armice,
+And not hat to thes I just them to and hor have tear.
+And and crobt he pases soor thing be bit bleas a pircusill
+And not most to disting beason: spase I would
+---------------
+To be or not to be farime my stink.
+
+MARICHARD III:
+Nay, is this guind Rome, thee right I worst to time your,
+To suin with to-dand it ungue in but our stort lives they fair,
+When fore is loved of in endeys, to the prages, hearts,
+And send to? to be that reged will the math king now to it the me onces,
+Good and couse are his cords, and to good; to know's thou on,
+And glauselfer'd laward, this of rentuce
+To were the couself. I sleep,
+And meall be and to and be themon, bour forth,
+For hose sariust here our goode' is
+---------------
+To be or not to be names could,
+God you mity cominedoum of like and him the dian your courd
+dlemiens, and fainst end would be sorriws be you there the swiction our the pruse thrisady uself.
+
+WARWICK:
+Be just:
+March
+Will weard oukder'd maurd's shall dem nintre and of clard now.
+
+SICINIUS:
+And him ind to the fairs of them theys seep it morn Julinady and
+Is me sleak my shal sorry will man vity whose is their drust men wred soul do.
+
+SICINIUS:
+Not wind be pleased now prave the shall be pleas, what it would
+So not to 
+---------------

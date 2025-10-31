@@ -1,0 +1,187 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne128_b8_mi2000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to bete this it dof noth the pred?
+Grd and you Lom noow ins:
+O whell and she whaustey: not.
+
+Say, hat knd her the you!
+What the his com sill the som harr:
+Kay whe my sor he hoou for of this pete,
+Whis ther the fath martt and to me thurt swirght that
+The this stous hat bried if and tis ben with ther frilden to thit:
+The his my with sitie blay therester of cor essie
+Thes ing Kearse ith terst ther a his of that ther ther;
+Hir with my hem hy hat mustere want got you dandy,
+Ou, me the sas enteret mest tha
+---------------
+To be or not to be hat that and wilf icke,
+Have bEd thaven dy tis the my that my encht andere
+An of and ciows ing of tof thath fard
+Thous of me and the her of blie she shis my speace ooun of
+Thallle narsitht my prod, hath noth besst borth by and,
+Esteche ip ame lay coveded rablovede,
+Hant that pooour therss eeelt I
+And ple hing speareflle the hath sempntared:
+And will he agy on that pilough.
+
+Her bet your rom.
+Good, Isay, sos makath wost he dove hes my helve
+gat gr cractis this hat hou my frood Ment.
+
+YOMAR:
+And 
+---------------
+To be or not to be ming ay domice;
+And pee I whith serseas for deenceg me of to made,
+Wichthis me he for make, Mang is houre martyer,
+As the and thave prears the careen is you,
+The you, thad you faurt do har his hr,
+And lovess led iser.
+
+That with his ablerst thour this she and.
+
+
+MEUSCA:
+See and fir that and and ta swandil the this is rikis ant.
+
+Rom ROMOUS:
+And the bat, I ing Ther and:
+Your the she sing of now ag yould my a thatty the as her eeld
+She our shis his for the you heer and hat and,
+Re goreed's by the
+---------------
+To be or not to be a the mely, his I for I
+Whe ars sing hat and shat dem and, the com,
+You shal and day our his thouques.
+
+
+KIN HARD VING VICHBO:
+Nom thy precting, he not for heer the hir pecte deat them.
+
+
+PORECHUSS:
+By, ince, but he with stme tom be,
+Anne hoube up stin grainde shere sape pror
+By On dith, ber thers thou daves his herd that and a whis
+And wor dak! his cour you plary me thale me,
+Fare whou shall goued be to me my ethe sor ther,
+With to sivers migst i ows sprught the the mare,
+As thee hand by, sof 
+---------------
+To be or not to be the heels erd,
+This of I as fll fot st cre gaks ther I the yher?
+
+DUK:
+Fald, thater is bror mot noth sief.
+Lom thatht her hou deld held your the cont hing,
+The fal's with not saing and come ake ing ond ham omble:
+Whe the good thar sealte he wich tis ands my the my hipht hih will
+Oat of ef the ther thater is with dim the sos that af he dit than do ou was Hing.
+
+
+
+DUCERS:
+The of leart shire hier gaters sor he impte prar,
+The whou mok of bith mir the crom come.
+
+
+Shas chat hat then to me'd a and i
+---------------
+To be or not to be le ling the me:
+He meat he ble fhave and hat stin acter ther wir,
+And now of nower prom swors Cin:
+And thing thith eald he or the sis there,
+And youh in thas lay to and mor withelder:
+The he an the and eis on of thers:
+And thatt ge seardt and mard. Nent ay that arst!
+And not this les som, shat the shis ore herst sus thacingfare inge ther ter;
+The fen the 's he warte acker, I'd to cann of the o'd ner ime.
+
+
+
+CROLIMINIO:
+Her End ot?
+
+
+
+
+Whis e por not, when aple and sou-my lay,
+And lis That se di
+---------------
+To be or not to be me.
+
+DUCINCETHA:
+And mot wing thas and weers the as and of har,
+Then for ant his
+And fir tas menenieds' now has.
+
+
+VARLENO:
+Marten the! youh my grod me ay, not whow he hith mone
+And all theate swir com ing;
+Ben som the the he she bus be in prakteld.
+
+Thar ou, Cof thallive has tillen, me fir.
+
+Fanst Or dearest astourt:
+Th wher you mare the in ance the thu speand us ince
+The he not of the the he vearust li as sa willy;
+And whis be af I your uvers shou gut sof cly
+itht prone wit hat my ing thel om
+---------------
+To be or not to be wher sown say decky
+Ent faime f lith avent is my and to in wort mameushtef you:
+hour the and dor me, gaink the me unen simstlos.
+
+
+WARMIA:
+Whou, what he, son of therur ith thou the my
+And ploh the dearthys cres, faight I loun wis the dom,
+And me thur peart, of this the now the sish hardes,
+Ang of a ciion ie thou lirght in sthe sithe-nd
+And ofores of the that is bellioush now finH
+As her sthes You be to that his hothe mamethere singnith your?
+Whe coor dry gand:
+The sant gauce ing, noss bait hati
+---------------
+To be or not to bespoge pomeodiss tak,
+I ay knl fad cale ak'd isw whaw mer the st this hare:
+And fror there nem therse in that mace dacked.
+
+FRINWAN VIOLUMUS:
+
+Fits this be he ther and hep and tee sead whe lisue and ther,
+Guch, now you frt. He lie theat stere slatit,
+Ond and the dor shis off thu se mownce forgnern,
+And it wir bys, he sis o the the and cre,
+To swhally stare crstloome: the so labend and the
+Hans deis mir hour uf the Mave you ye whour
+Wham of le lee, gious sueld but eares.
+You you now so his se ming
+---------------
+To be or not to be god shath elld,
+Wellt or her is and shed th the he wis and ith day.
+
+LARENTIUS:
+The er the he has you maglty as ther hat have,
+But lith his nour thers the stapsth scaing and merenly
+Rew:
+Blanother ware groiode with you dat maked taurstand a the and ben,
+This of of ple or her enne her unsow, is mand and cog dith hir.
+Sth fir Ent I swith hat art be be wet bearty theis shours toum.
+
+
+LOVARD:
+Ther ich farte bot be well, have my ave.
+
+
+FELAUM:
+Yers cove, you ge them that she um the kis of to word
+Th
+---------------

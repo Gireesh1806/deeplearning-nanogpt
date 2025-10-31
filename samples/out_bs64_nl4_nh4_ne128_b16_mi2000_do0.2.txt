@@ -1,0 +1,186 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne128_b16_mi2000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to betert.
+
+
+CAWABUS:
+My that he is ring one a a hin on in not the shall
+As were bre bentr.
+
+SOMEST:
+Noth heir bef for may and whor comest on quncome
+Ourtt my fresessson his ond for of this peas,
+Whill that to fainine have for the thugh sukide. What sThat do onerst
+Your is and and tis ben with the her lave to this:
+The with good witht, hold makesester of her pranst stser,
+The stemith terst to meardy of the sontner,
+Than word but your murght a untionen and.
+
+BUGOLIO:
+Thou ande the say, not whe he stay
+---------------
+To be or not to bether that age wilf:
+The much god, that way this the my that mune,
+hou some that that row whe his butiong the frad
+Thous of he and the her of be this to my my scule: I mayoth,
+And you hand the and ding than they shall the be and;
+Est candiles, in ouce the hrow our my alat that
+To o a to sordee hen somese hous thou hou lie
+thee say, my not be allow, bode thy do theath;
+And End be to thy kour the do the and somen ont.
+
+LORES:
+That he seave the gaust me a and thou hat hou my frome the on othe
+The ha
+---------------
+To be or not to be mightedr'd
+Bopess hoper I would ser.
+
+GAUS:
+And as whell and made my I ward my heis thenes
+To hate and what my eard sirtile ent. But stand the
+I'll And he comety you, that you faurt more ensice:
+The woult of lidsigee.
+
+Thy LOUS:
+Ahap berinther from, an of and.
+
+
+MERYCA:
+So sannd.
+
+CARIO:
+Then I lave peain the the noble, in and your with
+the ward shy a madientysurstalins her the shalk he prang
+God you stay a that that has he we star thou lows
+Be scome the you hever far a to me peastreser,
+Shath 
+---------------
+To be or not to beth to to whrow the for I
+worther sing!
+
+BUTIART:
+And much a to befor for sull and; and, of me?
+
+GLUCETHUS:
+And you sising, stalk, dother the have he not
+And heer the him pecter of and my rrighth ming hows:
+You do bee with stme to buther teents
+The have thy a dend-ent of top to by low.
+
+DUKE LING ERK:
+Come I surds a be the with rike, to wertar ther
+And sucke wich my me peace me to has frear and
+Some hom to my my ethe somest sallivest your aspaice
+An ows shal the sell!
+
+HESSTION NGARD ICHARD:
+And 
+---------------
+To be or not to bestlfe he have thy sajod,
+Now flord the wore go sor prace andy merty,
+And and word er in brord
+And on ther oumst to metther hou dught!
+
+KING INRD IVHARD:
+He when foll that love say,
+There stay baidon on bear of live:
+Thell good that sech dearth of tis ands?
+
+GORTHIOLANIO:
+That make and une presteled that shal with dom the som;
+Have for of to my me bouth one hin ouch me your love,
+In morst be tell him ous song it to prargle to hou moring,
+Sech, wore in or come.
+
+HESWARD:
+Clow my now old a your rea
+---------------
+To be or not to be learing the me:
+Hon hat and le fur a and hat stan a tor mucken
+To her now of now will whith shal to will frust!
+
+MENINIO:
+And the dide to with will hein the clamftore!
+
+PORIONUS:
+Ier:
+The heave they of you strowsh son:
+And they the sow moretere, wheN ELIO:
+En He sir! the noturest low to the the housed sorthe asty us thee
+Sefty of to ther ter is the dikent's the ande
+Hing suld in you not be thou she arde worsontirs staince,
+End of he sill the port on tos hearte and you
+is laghtire lise manor of 
+---------------
+To be or not to bean goot
+A hear me fome our shath himake weersirstake?
+
+
+KING RICK:
+Ond you by his
+I'll thou buthim; tha' now has. I my yourst and,
+O so! you not growner and not hade hear to more
+Thy all theate quies
+To ir that you what the hom he buth with pratter manst.
+
+DUKE VINCERIIO:
+Ahas tollest me farter, for righther thas our this with
+your contisclionaty the with speand un he surty hell too
+my this the vearust to as sucking un of ous flor from,
+Af us hou hom gut my worthisht pove and and the doing
+Us of
+---------------
+To be or not to be word sown's o ducky
+Ent for or say, you not all sain, ot.
+
+
+CAREO:
+Huch, for my hose:
+Thou glove me so, ham and for be andstrosh,
+You with shaltive the hosenou be wruch werthou the my
+Anot the thee do may of ur the worther up wixter
+Thou thou ment un pove the poring if no heim to compones,
+And of me in a in thou lorght in bet os the can he wither
+That the and word thou han-sare Hill her stheser our: to the rive tothe moretes
+a sir. Jully that then brod prak you hold to grace that
+To, andith and
+---------------
+To be or not to bespone pom of sor acomy.
+LOUCES:
+Ho, leare in tword with fort a love hand
+Thy comment wome nom to und un the frome dayther sourst,
+And the o mordes! I do Good ther and, ap and me
+And the hall un a the more forting I warfes.
+HENG RIV:
+a buth stale ther of a for from will our theughe mown
+The I nornesss and win bestrincess of to the dend suckmpaur and
+That my rowll and to for tabe doood the san.
+
+ASUTUS:
+IcKE uf you lave you you loversht a KING ING,
+Lioust unliable ent, I the in her to do such mine
+---------------
+To be or not to beeged so thee be scallt ort:
+This and shed thous beart suchan that withe thin that he er to dight
+I sly and theat the and that if to leace
+Then shisht shalling of heaching and me told
+Rew my woor prack of this ell of yther the deectaurstan;
+Then allaine on the has shall or her rone:
+For noowh is mane und us ad havese to and and,
+Where to hat arther be we thean be this lage?
+
+ISARGUC:
+The I nam to come of thou have duke sow my and.
+
+
+CALIUS:
+Ind may the dal my unt that munest to mury on to word
+To
+---------------

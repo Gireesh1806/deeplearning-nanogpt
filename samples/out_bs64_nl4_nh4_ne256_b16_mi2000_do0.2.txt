@@ -1,0 +1,200 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne256_b16_mi2000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to betters
+And I lovought anot in hard my to baith the sleet.
+
+HENRY BOLIO:
+Sir, I throvost the him the shall whithmonalours of heirst in a live
+And plown: being our he lade us the likenglands and maite,
+Thereforeighn to here in our grows,
+That name than that king inste the wort.
+
+KING RICHARD II:
+Brother Suchars says them her them other,
+Not o' you are let our be in to not and
+What lover not masterle in than the warwick a beforeson hather
+To such it grifest my Hend of him.
+
+ROTES:
+
+HENRY BOLIZABELLA
+---------------
+To be or not to besice and state,
+And both then must blows--faces, for again when not dame.
+
+Second Meshall:
+Bast with this heart of this day,
+And signiter as it live him a prominnent and and the plide;
+And not whomeo me are and me not man,
+Crave of the was some to the would again,
+Nor you, his from it there trops father ambercous no meane.
+
+DUCHESS OF YORK:
+Go hapon my him.
+
+KING RICHARD II:
+With must that is not is blood tmentlasher of it?
+
+RICHARD:
+That behichard I ward, gave thoself and mean.
+
+KING EDWARD IV:
+---------------
+To be or not to before in of him a fort
+This man.
+
+CLARD:
+My pride, greet that in the with to joistame,
+And he seem a ropt moreter letter him of with the lay
+Like in of the crownst 'Batter briding up
+As him; and to greath at rive old.
+
+HENRY VINCE:
+Lord; you do carrend more's stor:
+I'll that to fator of auld the count tweopil
+To minable the crought dother of the framber.
+
+DUCHARD:
+I cannot knise the the power not to more and queen,
+But my perisone hould look with heart,
+Then beteen, disman of are my of onerselver
+---------------
+To be or not to be indering.
+Your cannows'd in thereign all death,
+And met me the as time to subpeoks himsuraciar.'
+At Which so strents! and, warwick, with the conder and of to the for mother,
+And hard and dallenger. 
+Citizen:
+Neight beford, the with have decpeak and might with liven suea;
+And were is wall to time, for mark;
+The was bags draw that he hope the the anditions,
+But he rosoner of thou duke the mairst thout honourable spinve
+More brother's brother huself the him thands along and will
+have trage a me yo
+---------------
+To be or not to beling and talk,
+My lord that for may we and resaid'st nother:
+And that even this is'd withe pray,
+Thou my lords whichness the world and and not sire lade.
+
+JOHN OF YORK:
+God in father your part!
+
+MARGARENCE:
+I, gods it.
+
+KING RICHARD IIIII:
+If hom reman:
+Still of you from and and my from woman in humbert of swear
+I have here, there to be virte a pack?
+
+LAUFIDIO:
+The was at the woman the vious of Warwick,
+Both that in the cauself an of the solve,
+The prince in reying bitiln, not shild, for again.
+
+---------------
+To be or not to befindless the proot.
+
+MARIA:
+Art Nort the him hears fair to be wither it at me the him and for as your
+Aftentlement dive offoreforment.
+
+CORIOLA:
+Staidsway is the ward;
+And I pawarritage when, conner the love back a forbeing
+And with your lord's Enges the gooder too house enfear.
+
+DUKE OF YORK:
+Then for he can time?
+
+Secons:
+Cont, there the drawer that not sheart him.
+
+Some:
+So him your of the rest: that we seed I know?
+
+CLARENCE:
+Why sighter, better and spower of this my hand farrought and must.
+---------------
+To be or not to beturn heavens.
+
+LADY ANUS:
+I'll to that I would priys are;
+I wither he honour quitive alate,
+And thou and tell why well me end like:
+O, it him the not is day.
+
+LARENCE:
+Am the weeps in the all thy vost hearly:
+And know thus not what thou hand in her honour latter
+To hols not ever's the lettle be offy.
+
+CLEONTES:
+He was screting you not me is the tonguater hather;
+Connor
+To butter my and that lagest laughter's lime an that
+inter seek? While this have mirital frier, be I say
+The rare in and dirst a
+---------------
+To be or not to be marcy, not nesky
+As this seep: as and thou hath profter in timpe
+The come thou heart tatter.
+
+NLARDICHARD III:
+What know I wherefollestice are heart Julice,
+Thes it in with what repuling of nows coured sprementreather,
+And sir, deak, whose, me while pirite's were brotter's death us to morieas.
+
+LORIOLANUS:
+Is he per them, finter fatter'd Brother that
+To the reath.
+
+KING RICHARD II:
+The cert.
+
+DUKE OF YORK:
+What where match a gracious,
+Him the can heart onerage, home brother haman:
+Hearding the 
+---------------
+To be or not to be forbide.
+
+HENRY BOLIO:
+Thou the virtate manisonation;
+And re's reat me wort fair, they me, would not here of my mark
+The virture or stort lives the king her for the is loved of in eyes,
+Not with on good hearts,
+And me in the not to and their quither mate king at
+at thou shall oncest, in you with acare his carrict.
+
+YORK:
+By your here head.
+
+DUKE OF YORK:
+We the mean, that me in not enter whome,
+Thou soes, that I milet, and bading hother,
+Nur will for he heart, you hose aring shall nur grace's s
+---------------
+To be or not to be name, compery to must my lifficend:
+Who like all him the dite oners: but done enousent fairst eneralls,
+And thy with our wintremper this that do the prost thribart
+Most just comme the just in thring froman,
+And are impuartade be in meninter and of your him.
+
+NORfORD:
+I have it it deed?
+
+KING RICHARD III:
+No seek it my some of your me?
+Nor I more all no so main;
+And but thou hand drubst ports; my wither the dother of this gainst
+The king and not prave bespater fictelless of this wound
+Shalls tha
+---------------

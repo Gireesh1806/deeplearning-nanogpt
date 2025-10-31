@@ -1,0 +1,139 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne256_b16_mi1000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to be your you I louch it and fir harger sour;
+The the sleeth the will not the coudter a me to the hearss you wrindmed.
+
+First Musicirring their:
+I am they, he Whose you ames, thee time, my sand armain to to upsorius;
+Ond with is in grows, cold nausurlant naw yies' have the what heart the me speeasor-dail tube
+Is saus them her them othe to pray'd the be let our be is to not and
+Their sorronous a faile ever the kepon the with,
+But me wail of dainst it greate the Hend of heace the shink of them I-fore 
+---------------
+To be or not to be menter, state, the bors.
+
+CARUS:
+Ay plowers, sir, my grous what fird me is a wearth,
+Of thearturiing of excious to lords our cousidious?
+
+SINCESTARWARD:
+I manisnen the nother the me of then the safor hear sleaus,
+Now wrumed, the greath awas time all the word, the a pay ourh.
+
+GLOUCESTER:
+I grous far, that thy desir me is and then,
+He impasted had and Ih sence him a prence'ds for mares;
+And the endure now tme it she couriaghperious, go pase,
+And the thee hight the sulf a have of in drature srrin
+---------------
+To be or not to befor licks,
+The bliouth pirion metter sounder thrisgres, anced; so their,
+For mistamed; the with that or Ie gramiales, aw their with likelansuil
+Him frouse in seath'd the ne shin hue a priers thee to somes
+Of reck in and and me of chought night carrep.
+To be he pore ther, paito of on of auting parbles awson,
+
+The his soul the parse moinsure you them befored,
+Thy malling agannise them to powes yourts and thou queed, and my peace.
+It our his word head thee, the toI heads mark. I hat you honess woul
+---------------
+To be or not to be the can: the cous easurver I am ail,
+Temertor tonded pire the laught a morsurnsome himsuracius.
+
+AUCHIND IINGSTES:
+Non is, you beither, my speak and me to to the for moston, the haven,
+Led with the the chaughter'd fork hand in thought. You paless,
+Which now it saun suears Io ward, thy let and of, ful with lies to the nows
+Some ender of at we theaveitioun, have, but is greacus god!
+
+SICINIUS:
+Sure thiN freath hear you hou sours, thoughts!
+If need, the stomed nam all that you and sours,
+And me yo
+---------------
+To be or not to be thread that aive, too that an them we and dissily the shreace,
+The not be ture in'd withe preath, but youth, be tonned the crous
+And parian, guir allam dow and be doth to teas at:
+Ondy head and mustaude, cours henful trow is goodil'd and cran
+Sacriend to the would excore me ands.
+
+BENVINCENTIO:
+I was the comed at you she good the cour tostor a us what but old,
+The wake the cantor, the be should the cless, if makend toou?
+When now my strangly wear in now, and; you!
+
+KING HENRY VI
+ISI:
+O, and you
+---------------
+To be or not to befin agred bestrers.
+
+MARCAURIIUS:
+Be the him the server'd the will meither you wold that do:
+If thou prowers their dive of sheir's goves be the untrided to be
+Son suince ourses a retter whe ster need and miny a so. I will I give,
+And well part of say the good pates bous feare tomes,
+Come in for for flow what min, If it, as fore shalt our mad,
+It is at now shee a dice, of the wrepe of heop tlear--thoughs word,
+The kinsur, with cour heavesy and better and spore:
+Nay with nith browhat good earm and
+---------------
+To be or not to beturng of the the gody.
+
+BRUTUS:
+When sway bown prey and praves feaces you a fase thee,
+And to thee for thee me their rightes in with brity raw,
+Ound do me some the his ampore theishir badease,
+The so.
+
+Say:
+Mather'd pitius night the porsing you, I should can way you;
+To not ever'd the seeming, good be is paup,
+Of sice, comere the soriour thrent, on my lord, so husbentr
+To buster me and the deages the greath have make,
+My in you again thee to the chought and him of cousiall ther boul man,
+Thank a
+---------------
+To be or not to be mare to greash your'd is serviced and thou hath,
+And hearted brood my doth are heartanst I am upors,
+That be onour day teate torful, suir thrume ourd sor'd dides,
+And pear, what read wronguen wracess a spremestran head:
+If sirvide in with be and manton in 'im and be brew'd aggar us.
+
+JULIET:
+Seem you ceed Take I ser them, firsulf, and creath and that
+To the nibles in the leaw though at ter,
+But a fore obtunt the weet math in be the bleam a piritgred
+And noth plost times; for amoan that in would
+---------------
+To be or not to be fairmer.
+
+HARD III:
+God Breep your presint insour dide lears's reas me wrett to time your,
+To suin with to-dame is of che cress our stort lives they fair,
+WheCland yience our in our feasund with on good hrords,
+And send this not thee ir good an this me boke,
+What to it the me onces of of a be to any the to tell, noth take.
+
+ESCERIO:
+When; I hat you shey man; and word, I give inknouce, and for to besin.
+
+DICHINRIII:
+For the badinguetter lover wild, be the be they shous sorius,
+Thee our grane's s
+---------------
+To be or not to be that in excrestion, and bridy tonour our distable,
+Of Flienter never be fled in anster fainst end would bess of
+What our will to apkeriettisurds, the wbly thribary use and your speak:
+What in thre wred way, but are-Coruad's shall,
+And in he and of clord now you from father'd this deedt? and and have me mays seed i brown Jriolance ames
+Nor sleak my shal and fleeb, muster, the cryish be:
+I shreather recily. The drumes anius be oth a caple and night a beece sheir bropless,
+Of and of dead now sime;
+---------------

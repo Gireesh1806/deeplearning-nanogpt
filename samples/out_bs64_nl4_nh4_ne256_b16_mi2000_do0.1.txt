@@ -1,0 +1,175 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne256_b16_mi2000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to betters you me offegrief on in heart
+To the etentend leeven, all this both at and pointer,
+This thy crown all rimsal of my lauficer in a biir
+And plosed report on you are untiden behall means;
+That it he curself an to here in our grows,
+That namentlent now mine's speak; and to lord than them?
+
+RomeR:
+The frats sake them her them requettert o'er smar me;
+And greather; not and them mustlent diar holengers and yourn the
+will, and many hereof with time me over to to mory manst mine,
+And batter I for m
+---------------
+To be or not to besick and state,
+And both them must blood---and it ship hoper was from me?
+
+JOHN:
+And him queart with to be thou of thou dangther signice?
+
+SICINIUS:
+And come mignent so not not to me of thank;
+And for heart knour, not man Romeon of the was some to the wonds
+Hart that an ourh daugh either
+Thou of after that hasons it men in Frincent plain,
+To dand out while to lad my brence's did many some and neetirs?
+And thrief, more in the draoter graces breath
+Hont me hight than the soved looking trants of th
+---------------
+To be or not to before them,
+Than like poore and the placenderend brother ofced;
+And Guilt to he shame for should rease, the Hater letter him of with the lay
+Tilling from neer seath'er and bring thee
+as halrial.
+
+LAUfIXENES:
+Live of that an the masch
+The hered the repurse of his crounder, paitors, on of alod,
+How but puts cold and in meanster: and thou mativesy than bespreserven
+On thy quiends and to the of thy hath adrupptriqueen, and my perisoled
+of action were heart, in this I honours foolloward to heather.
+
+H
+---------------
+To be or not to belind can our scopeners and the daught?
+
+BOLINA:
+We to pirell is as time more,
+And I hour races to do preservostine him: it, when time and to sconder and to to the forfice,
+Thus of hast us dallenger. Answard than burded than cretter'd mighter all and the most dissale sueart do of triend;
+This time, for manitly the consts
+As and gently of quient than in to flid, be us,
+And the would a stay too banter to this abound's very.
+
+CARILLO:
+And this many the honour than a prodoms.
+
+BRUTUS:
+As nor set disp
+---------------
+To be or not to beling a prince,
+My lord than for man we and resaid stands rement me heart;
+And I in't with haven and they regals;
+And swret the some, down and dusterlad of that in or the fate
+Unet: whys heread! and thus wack.
+
+KING RICHARD II:
+I billy along fair, reman:
+Stant of you; your hearth, may than more.
+
+MENENIUS:
+Is wark, the show canner hearth vious arest the but of the disand the cannot.
+
+KING HENRY VI:
+And my main maken their waself as my strother's druity reserver
+With bitter, not shield ful again.
+
+---------------
+To be or not to befindless the preet?
+
+MARWICK:
+'Tis to my here bore farrant with or maither many,
+And nor dood comes most eyet; and dispirlos his me,
+Thou are nourt it what should sude corses,
+And lord, whe sturn to the love back a forber;
+How threath what him of say the good patter!
+
+AUTOLYCUS:
+Honry at in forbond from hearn, in I with hearther,
+And she made gentlemians, she man your sone.
+
+LOONTES:
+Yoo drunk the happy born, the knoses, with cond her may than my him.
+
+ROMEO:
+What will! what what murder else and
+---------------
+To be or not to beturn heavens, be good.
+
+BENVONCENTIO:
+That thou in day.
+
+KING RICHARD II:
+Ah, sir, in may can this frants eyes;
+Shall the end like pust tood with of die!
+
+FRDARD:
+How noble to she king theart,
+Than speaks lock, and the aut of the for of thorself.
+
+KING HINRY VI:
+This wornserve I had his distreed perreath.
+
+DUCHESS;
+But contremembern, from in she on matter.
+
+SICINIUS:
+What but the tray lord.
+
+BRUTUS:
+I deport throman that in you are hath hand!
+And homisits but us, beties and what of now,
+And she 
+---------------
+To be or not to be mare their geshe
+shall so king at and thou hath proce to action,
+The cannot he heart take of and to that son on thusand that
+Lord him.
+
+Nurse:
+My sweet I'll prased give to parcilrenger: be the stater a spreserved of their and at this stone,
+Than mine not will and belitter toggar speake
+To tasy they whee wroast not the despeecs,
+And that he dishall beauty mes I vail than thears
+A timent tent. Angeant crobt he pasters, and in the precel'd:
+O praction on the gamplier time guil hameans
+Thou hands o
+---------------
+To be or not to be forging there; that's he speak sold.
+
+ANGELO:
+This in the receiver crudgreat this to yours?
+He mine in shooland it to can it that rest man
+Bosing confer her for the is convanuly of the safe
+Fither toot blood and to me in the need of
+orroghieven this quien.
+
+MENENIUS:
+A the may nows be of are comselard his cies
+Henry to grow at speaking good help to behom
+Were fals sower in our knoure my were.
+
+KING RICHARD III:
+Enclet, and bading hother, and will, bold the dother's heart
+in to fre our grace's s
+---------------
+To be or not to be names could littlemen my right:
+To may let with the manster and therefored duke answeek these
+The world best to were of the wretch morietide ours the turn thribs thuse
+And your spitiends this return from accousserved with as for mour his droath;
+And service the from in him him in dropt? and and hath men bysise,
+His morn Jeriet consment me stroks and no so my liber
+As vies whomey drubs: I hast men wretchmourn, the prover their the city.
+
+MARIA:
+Bavan, besishould coulder, Vartictormen:
+So which t
+---------------

@@ -1,0 +1,202 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne128_b16_mi2000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to betert.
+
+PORWABEOLIOLA:
+I pridioord a onotul thy son in not wherer grows with brey:
+Thy the willl whom heir befe or day warblintow,
+Is lord the make ritter ares sucke the ond.
+
+MERICE:
+O peto, whill that to fathis from.
+
+
+
+TLORIO:
+I the is be she sak, inought and the is aire.
+
+
+VORINO:
+No, it say, what court how, me with grow
+No this blay to sheee do al the sies sto in bees;
+no there state thath his word worn fores; now
+Well therem-hy hat munger: what got you dandy,
+O ander up say enter the state 
+---------------
+To be or not to beth the though wilf:
+The reave bEd that wad this the my the doune,
+hou some that that rowh peenir, the hat hat a dee who heath.
+
+SaPEOT:
+Thou be this to my my scule: oo buoth,
+And you hand the a heare at and thy shall the be alend.
+
+My MOFONES:
+Noor whe in rave to my alling a thou have your eeeltl
+A bese how lanster of the doo say, my notrestal
+On thou stay morte a to forgued our beting.
+
+
+TOSARD:
+For allts son may thest he do then seake ove
+The grach. Hes I same that know whould houch,
+At art he
+---------------
+To be or not to be mighted
+Theire what peentr to Tuser, the be deances mule.
+
+
+RARETIUS:
+And his buting,
+The ut thy so hophe martue of sintile.
+AUTIUSI:
+I wath the woen in you, come
+And the pay encorr of his his ar, welll tans lethiser.
+
+Thy LORD CALLUT:
+Marther forth; I he and I know compearst how.
+
+
+SICK:
+Hearth a sway thous strignght this and the thim a say
+Mautsty a may in your hath's his pronser thou prang
+God you minge are with she kick we star thou lows you come
+the you hever far a to me peaser beay by the
+---------------
+To be or not to beth to to whrow the for I
+Muchard sing!
+
+DUKIN OF VINCHARD III:
+RIf whe was he and day, hophie?
+
+GLUKE HARD IIIIV:
+The in so the well there fair or that sto beale.
+
+HENSSCULO:
+Hen therem lrave, I mausthow in I the bee willl the ath be,
+And mame of beave thy then shealt ame prom
+to low stirte tward not of daves my wherd that till he
+And is wold there.
+
+HENSY EDWAR:
+And To whe me, cand whould all tourd, me be kintter,
+Theres shall that your as might you smach. That I the mawen waths's wand by,
+And 
+---------------
+To be or not to best father
+Thou botssend, but flord the whre go souce,
+I the you lest mord ame the ereartir, I
+At not there.
+Lome:
+
+Loth for our the hee fromatince, your in the didence
+The not saing my fest a baidon on beartomor?
+
+
+HUSTIENTE:
+O I rore my exthere make and me ate,
+I my pay hear martiat of the my ther thate: wo where!
+
+
+GLORIOS:
+Have for or to my me bouth, and Marduce,
+I your love love ous out bestly to be soughite:
+I sar, why whout here sbich.
+
+
+LABENS:
+The pore and, a hat hatht now old a your dri
+---------------
+To be or not to be learss;
+Then thee contler on madh to and here, what tor mucke.
+
+
+HENRY LORK:
+To be you dorthe Come, what deave in ourl un porting
+Come to will thy marin the clamftore!
+
+PORION:
+Some, that If an they oure stry of the hat wath,
+At gucht art at all whe which butter that the notursition
+As the stak he shick read asty us thee befty of to ther pechil!
+
+BESARIO:
+Where a ten I would fitce I no he could she arath
+Cosonties stain be the stake: in thee port on tosen,
+Mordake you in lay, in whill manore th
+---------------
+To be or not to bean goot
+A nd beart commointing! Which sire this to beat hom.
+
+FAULIO:
+To allt his
+I come! tas mearcious'd lord sompher your concter the!
+
+DUCK:
+Thou ase agonst of we he his wich in morlan anate,
+There thir we mirs morth the how he but be in of the dire.
+
+KING ECHARD ERD III:
+Thould in on falll in my rightht strastour.
+
+TORK:
+Bow your he beliowar you ther as was the woull theer,
+But his this the vearunt th as st will uchold:
+Thou paide your uvers should the dick.
+
+Thou Conow I all the do for stom
+---------------
+To be or not to be word
+Moverstor like in Good ood linght, there; not my oth comain
+Butuch, for my hoseftrer my dongel, goink the my lie;
+And you bleque:
+In, should not henls not bethrund whre the semmb
+And a ben the do my hear he painte I know wixt my dome;
+Thement upace streack his the no heill ince that not grow.
+
+PORDTICHES:
+Whenre which thous the can have.
+
+
+LORK:
+Come and word, in be not for I my growth shall be to the rive tothe momeths
+a sintir ofy thath staind dram to the jastiong for that
+I smalait have
+---------------
+To be or not to bespone pom
+on sor a shy stritl for cale all the for will.
+
+
+HENRY VICERD I:
+And I the would! my know? O, and fur beatht diven
+Mown and the o mordes! I do pare there he hep then be read:
+Whall un and there of ment spy anfuter of thou have:
+Whe what the so go, the do what woult hught mownct fortuer.
+
+AULDICET:
+I nobrince ben the daing no staumpe
+what you beapors, bow the sich on sidell the do his him:
+I should your mome, you you lovers that the lea,
+Lioke sueld but your with the here some sirs migh
+---------------
+To be or not to beeged, I thee repsce letor,
+You asake shealt his beart I a and now, and that hat lay,
+Now the goodes to my loy as ther have agoion
+A lighth what the know which part there of you menly
+Rew:
+My a thou worke which you chy sid the deectaurs and a the arrinen,
+The and of flear and seant: proun! be is male und use:
+I a hirth the wars, the with hat are be be we thean beat
+is shouls to won stritoner a to come of thou have;
+The whe my st goood to agentis on the dak my uster.
+
+
+GARE:
+For I but o to word yo
+---------------

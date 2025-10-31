@@ -1,0 +1,166 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne256_b16_mi2000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to betters you malks againston in hard;
+To the etrikend leftlemf lady that this nady,
+And with thin the shall whildmed of this forith'r.
+
+LEONTES:
+Marcy haxrest no him; let must dentleman: my shall fite,
+There some and war undire in grows I pliveals.
+I name a king's speak ward's drumt than togetiman: this numents says them
+Against the shall thou lost of let of great.
+
+KING EDWARD IV:
+So Vonturn the let king with pray!
+
+LEONTER:
+Nor heart lotd it, with me over to so more my suck,
+And send that I the m
+---------------
+To be or not to besick and state, there of them min
+As thought words; if hope well him a the cannes,
+Your let as of it cother to more lords of thiness?
+
+DUCHESS OF ARIZEL:
+The mink, it of With the time for and for your hearts,
+As than is not he heour would withirs of me:
+Master have than our deathereice, I would the Chare man,
+And I many in trump nowelling of hand of the piece
+And daught not saiding he peak as not in the ettments,
+And him acting of the mane break the that hight thans at and mean.
+
+KING EDWARD III
+---------------
+To be or not to before the show grace the ignore.
+
+CAMILLO:
+O court, in the came, and that somes and ca;
+But was so delive more erm'd that draw is and bruiant
+Thin those man heress 'er thou his heave
+As halrs the stone? that rath old by made, house the talk,
+And more uppoped house aftition and would world you
+speak this done one this soon the parts doinsmany.
+
+LADY BO:
+He death, mallower, and we them to power not to more and
+Duke that pays in that house look our sholes,
+Then bated of the foolloward to heart betwe
+---------------
+To be or not to be the can of your beens and cheeks:
+To all delivale to pirity is as time to suck
+Master.
+Look and thou chere of the hand it, when them of ress
+Conter and to the senter's too hunder wast us:
+Whilest this subject entor beford it flisolving in the rink
+Which of this all subant do our rightsle is time, for man,
+I'll speak good patteden I hope the the and with all but but is
+great would be the buing greatter for abourself;
+Or betterh may here in many the conticity name,
+To warry, lath shall gentleman 
+---------------
+To be or not to beliver, prince,
+My lord than the man weak of mean brother resent me heave;
+And I in't with hath ward thou do and betwer done consend,
+And in right walk hour, and brothing of that the group,
+Farewelling the count benfullius of this in than acculious mend:
+Stand of you brother's evenge our woman and part thates,
+You, trave what there of the soon alls with buries,
+Were was and not this plrive shorted and neys,
+While him too sweet's must the good foes brink of all;
+Which it live to shied, for again.
+
+---------------
+To be or not to befinion these-sones.
+
+MARIANA:
+'Tis to man to me, a fault's biritern's their sour,
+As not dogs ask of our ententerment unswerved him,
+The back nour kinglaters of his death:
+His warring and else, betentleman: you shall with mu may,
+And well be troyal so.
+
+BONTER:
+I should fear at me never time out house the cannit,
+If it, as foul shalt our mad, gentlemiansmished a discales,
+When him of him dreath---lother word, there he soments;
+When perisy than my him soul here of this mine,
+That reprice else and
+---------------
+To be or not to beturn heavens, be good.
+
+BRUTUS:
+Whilst I would preport.
+
+KING RICHARD II:
+And speak the poor on thou and seem where triak Is in with stitlerant
+And being them to can so my house, your battal.
+
+LARENCE:
+If look, I knope a senties! for him to livine,
+And roclain the vire of my spoked and enter be
+I from is paupenser; and come the spirit brother.
+
+Cond Citizen:
+He; of nor
+To but the traitel cannot stricking of have man that
+into hear hour heart! for homisital from of the say off
+Through allsd askin
+---------------
+To be or not to be mine of the more
+As this semembert's courself all of heart time,
+'tis doth hou heart take on and with Camilling shall prest he'rf him.
+
+Nurse:
+Meathers I'll peak it in entill crars weak to the stoper.
+
+CLARENCE:
+That imperation, this with may the hath of him.
+
+KING RICHARD II:
+Me so well, I say have hee wrong, I defind my fible
+To kind the discour bratch mes it this standle him.
+
+CORIOLANUS:
+And thou mortant the weet matter of service's nation,
+And bettend and me this since hame of man in the b
+---------------
+To be or not to be forbidgminess;
+What's he speak so reame of the priving leave's right;
+And that is that me, would not he hold many too.
+
+ANNIUS:
+Nor storm loves the king here,
+Were yield house the enfelland with of good hrarts,
+And, so nesic not that in good quited fort that not
+at mine throw onces be of and come, are here tell you with thy spirat
+Ourselving sleep to hables; and was we with with wore my were.
+
+KING RICHARD II:
+Are the dawn bading hour, look I mong, we come bettleman.
+
+MENENIUS:
+Servant not more
+---------------
+To be or not to be that in every tilling more.
+
+BRAKE:
+Who like at I home stand honour: but dlaude answer fairst now would best to
+were our be, remiager it?
+
+DUKE OF YORK:
+I serving thee day, farewell in hath tark,
+Were weak, our are Corual's shall demining toat to these.
+
+CLARENCE:
+Me, Which it it defend part he hath monerys see
+His morn Jorn any as draments not my shall good be praitune,
+And sweat was body spart wards housed to paring it,
+And the crople as this pravereign here but with in baintomed
+We somps hea
+---------------

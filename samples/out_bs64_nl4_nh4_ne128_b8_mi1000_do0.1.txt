@@ -1,0 +1,187 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne128_b8_mi1000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to bete this it dof notest:
+Se you ord and paull hin garins marve an and is wir;
+At you the the fere wholl silll frvin deand.' Fhithe,
+
+
+POURELENS:
+This ithe the sof sor his ood ff lor, hind will Vod bep alo oud.
+
+VOF ORELOHA:
+Thill urt sheig below of he brord, thou dof ird if athntis bend
+Thar is hed la in ust ho came hin my with sitin blay thes sues oadl thess
+And by ird Kes ses thrie sthoue ca hin of the with hallld.
+
+
+
+WANY ESHARCES:
+Int mungere weathe to Go da Eyou, ange thild,
+Wen bow Whout tha
+---------------
+To be or not to beserst to thee wilf icke,
+Galan Elal aven dy ting see int and thench the feme a codrd
+An hepf hird stof thand farder whof I her that he il of blith
+
+The thin as thee oo buoth nou lethallit thist hed imathand thy shou outht thand mEsteche ip ame laorce the brave?
+
+You:
+
+I the imp bore the you eelt I wollll bus thipe beflle
+tare and yournt mow allord bof the you theard;
+And Elay dou sthe kour the dis you ththes nomat berst hind and:
+The whell bost an crast hind butht hou my frord Mend.
+
+ThARICELERB
+---------------
+To be or not to be mir lededd
+Bopess hopee tresivis brirts for dend sill mument mand you thait
+Th he for mathe of lle an the mampue of sit illle thave?
+
+
+
+
+
+HYOUSINCEMALHES:
+Thest he lom for, sof cord do his his hr,
+And lovess lith gee.
+
+Thit wis Cotho blercthe tordm, an he and I kit you:
+The ashert so to and and ta fland lowsss illl bor, ind as the thim athe
+
+And shy at and boy ursto of buthe:
+Whe Bus heppean whag youlld the thanty the a pord the trof orth
+I byo Glfor theay rinder and ha I the pealld beay bute t
+---------------
+To be or not to beth O, tof trod the for I
+Mutis arsing hou and shand boull ard thif bred
+This sand dand hophid?
+
+GCHEDYCUKES:
+En thes si and the wear ther how hit he thas you reald sean cose.
+HOMIUSTERE:
+
+Thim he is frowsild, I helll wis plame ath bee tone hoube up ave cof aute;
+And thap fpoly bat thester berwan ond tof dars
+This he dot he and bleave tin wold ther,
+
+And do thip:
+Noche An; hem mache Wis dis alllis for me barke bee hend
+And shit ivest y truas mins th ows shis the selllt,
+And gof torge tho boy sou 
+---------------
+To be or not to bestof and hard thouss of I as flor. CABEd,
+LOS:
+Buth will andy mert aner a amme saner ing hord
+An noth thef I shis lof theand his hou this that and lith
+This bend alle wis llolds ing and cot andaings ond ha gombll:
+
+He theag it thar se hee heall wilis an spe ate gof thar shind mand ar of
+Sher she is tha br po with dof the so dind f fordserd tron do ou wnd Hind
+
+Anches ond and of loim ous he hies land ous shim itht therr,
+
+And ho the mokng then houn is orde pord and,
+She theat thend old af arat hi
+---------------
+To be or not to be lerlind to he the cohal ard le furin at ther wis ay tor husstwer
+His your of nore.
+
+KES:
+Hod my ind willll thep thoe lave por the dis ther goath youhein shas.
+
+
+
+Tof Gre Cin cerelder:
+The Ef ar thecoou you sthou his har with arth dour art athall whe whilly thour rim!
+And nond cith nous the, thin bese thorth party us thing gracerd to ther te cill lis lord;'
+And I deen cow cof cit you nou sthe lids.
+
+
+
+ENIOLENCHES:My Iner ber beest?
+
+
+
+
+Thit Copor not, whend pof are you-f heald irs lis Thinow for
+---------------
+To be or not to beane.
+
+
+
+ALENCLHAMIUS:
+Toir shethows anl wee; wir and you ou hou the and
+And thing
+An if cotas moieny ba'd lo his. prirdy mus hallll the!
+
+
+Fhim ISSTHENES:
+The to bof he hit the she mot an anand siled
+Ged youl for bmort for hhove, sin this dep.
+
+
+CSUS:
+Ther you Couse gllive ha wolllds, me fillll, for dind?
+
+
+SUCALYUTEE:
+Thid betor cureng by illat you ther ass the us he the beeall toof the thith an whus the as sup ind no old with his wI your uvers shof
+Whe sheic thith he he ap the nom colif thath.
+---------------
+To be or not to besos mod whas o de.
+LOEET:
+Timo fold, have theall san we tor wout mameus the you:
+hou for or gloos me, goind blom ffulend mesthour,
+
+Thow ep shout whithe hes noo blowrurd werthou the my
+Anou coh you den mers crucul the vint you wis the to the pument ulkn with of fillllis no hell tinch thars,
+
+No of I cill wie f cuplur then hith hou bllim whe our come nouth wand wof llime.
+DU-sthe Hit wher sthis You ba to then hit hot thith the a ginthis my thand:
+
+His herp an you hou browg for ind,
+Them bait has 
+---------------
+To be or not to bespoge pom oviss tar,
+I at kil for coun al'l ind whew is foll an fep hand ins.
+
+I MULIUCEE:
+Thill I mour and fup briard dimygers novis fullo mothts!
+
+
+
+
+
+TULUCUS:
+Weand, pent hees sean wheallsue and ther isurs,
+Shand anf tre din woll a busto the the dend at,
+Thind you whip fellug e mownk the tun nous mailld
+Th nobrd fith o the thing nous sompaur arng
+
+And prostll and thef melabe dolld the san theis mir hcres fors or he youst fol this this lle lee,
+Lious sueld but eath wit grep herd sof thy suripl
+---------------
+To be or not to beeged, I thin be sce lo or her.
+
+ABERIEM:
+The the he I I a ank now, and thand I alll berill bin hay y,
+
+Nou thear ther hin hagom and lome hou nou wnot shen.
+
+HORUESTHARCK:
+And my Inlous wer lanot and,
+Row whird, with ythe be maree tan suand a hat and benoh creavesos fle or her dont:
+Fo und blive Un beand coghd haf sethe and fand o hind
+The sear heplan wevild may thiis shours to wneast bupland beaich farde bot he we tkeha forr ave.
+
+
+CELAS:
+The san will dal my upter my cune mut so by ou to wo the 
+---------------

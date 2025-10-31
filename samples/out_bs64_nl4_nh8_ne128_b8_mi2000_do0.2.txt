@@ -1,0 +1,210 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne128_b8_mi2000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to bete this it dof noth thell you ordn oon.
+
+QUENIOEUS:
+Tha a wholll gross wer; brey:
+Thy the of have om herd bef for das at's his colls that in the
+whert my whe my sour was oll fallt, his pean,
+Whill peat to fand martt and to nooth glod
+Ind bet whour to do ond know the thar of hatis bend,
+And liverd last to thit:
+The hat my with sitie blay thes sues o al thess wellls ind.
+
+
+
+CLOLARTE:
+What erch his of that ther ther; nurs mus ther,
+A you thau thou want got you dandy theat ear,
+And of he willl the a
+---------------
+To be or not to bether that and wilf ich trues o Ed thaven;
+Nor bet ther that mun have to fand a of an
+A shepf tir, stif that thard he do o knor that heatllly blith
+he shis my scule: oo buoth not lethar itht my prod,
+Hath not havest bouth by and my this silll,
+Suay cove ee rave to my alll that pooour the sauee hen
+As whe hous thou hou lir thou sat yournthmer allon,
+bod the you thear piforg:
+Thim the with urcent or the and sos makatht ost he do thersser helve
+gat an crast hit or hat hou mans hibp on on othther mor
+---------------
+To be or not to be mighted donice;
+And pee tret his by rasth aper nast mule.
+
+
+RUCEN Of I Exit my heis thente, sher is hou!
+
+BEDWARD:
+Whit ill ext that sears to say the is you,
+The you, thave sof coon do har his hr, wellly,
+
+Shen his eas beat with his ablerst thour thin him and.
+
+
+MOUS:
+Will sash frulde, sand and ta swand
+Buths this ingrt in ant encome a a speallits that,
+I in your havers herr: my heas her fan whag yould my arrt,
+It the as her eel trof ouths in his for the your,
+And far lit ther eas the flor tho 
+---------------
+To be or not to be a to to whr his hefor I
+Wor ame sing'd toat us and boucht, the comer dis pay and;
+And hoph with thers.
+
+
+BENER HARS:
+A thou frored thing have Beare that of heerld our,
+With by shorer mak'rt her mich hows my to he he healll me tom beeertne,
+my ofer san thand he sheant ape pror the my sthat brote ond
+'Clld don mys herd that tin ble the is wour ther,
+The mare will: hime whald me that of ben or witsher beat.
+
+
+
+ICBRY ENTARS:
+What mallt your as migsty, ows shis he my.
+
+
+
+RENCHARDWING:
+O thou o, so m
+---------------
+To be or not to be the heelf ear,
+This of I as kll fot sto re gass the and andy merty,
+And pay, that of midy ar st noth thefe mos to matene:
+Bow ther held your the cont hing the dis hat a havells sor,
+by corchake in ton beand to with withe good.
+
+
+
+KIRD:
+Year whou lid ands my the my hip o hin willl an of ef the ther thare:
+Whe her dom the sos that af he dit than do our monn hin oucht?
+
+
+
+NTHENG YORV:
+Bust by bet laters sor how thave sar,
+The whou mor of bith miroune of mare ond and,
+She the ther briom the with hi
+---------------
+To be or not to be le ling the me:
+Hon hat her len have and hat stin acler theat my
+His your of nower prom swore Coon, what deas pitene,
+Whe por the sis ther goatht so hin plas.
+
+
+MERTIO:
+Por wherelder:
+Whe her hears,
+Whe is strow his har wath artt doner mod thall whe whilly that arst!
+And not thit los someld the hou lithorth party ust the beft my pood
+the pecciks lis larne's he warte acher, the to cann of the lids.
+
+
+Fart Cosod tet sheer ber bewit?
+
+
+
+
+WAPRDY VARCES:
+Hos her we and sou-steld has swillly heor of 
+---------------
+To be or not to beane.
+
+DUCIO:
+The that mod wintth his he heers praike?
+
+
+
+QUICHF NIVOR:
+For Cay, gonar for tas moneny:
+se not has.
+
+
+VUKICK:
+Bor thou so! youh moder shee at hor ow geare thave oof
+And alll anand swire
+And your mirs mome frich with she him in prstt and heall our.
+
+
+
+CRIIOR:
+Aha whilld the thas live, this deares to tour.
+
+TO whert my mare theld wath the my unss the us hach hat hells:
+For the ther and whou lo as st willd o old with him wory;
+f ulld as by gut sof claciten ear, and and the in flars
+Bu
+---------------
+To be or not to be wo mod whas or like
+WhathTh not lirs and theat noan leat.
+
+
+LICER:
+Hucht for my hos for or gloosted, gain:
+Whe my land sits dos meque:
+In, shou ming'd rols noot thirur it by the semmy
+And ploht beand thers crucus the vint you wis the dom,
+And me thur pows the paring if no hell tincht fars,
+Ang of mechis with as alll the his to sit land
+And this saik the than it bellioter nos f not.
+
+DUCER:
+Row to be to that his hothe momethen of ton you
+The his ther herp an stay.
+
+
+CRIZARD:
+You I noss bait has 
+---------------
+To be or not to bespoge pomeondsse a your thitl fod cale al'd:
+Wwow swilld the sthy for a miks tharth there neart fur?
+
+
+
+Fat But this ther sis swn allle.
+
+STORS:
+Whe fay prom ther and hep then een bid whe lome law.
+
+
+
+
+MRGESUS:
+Nor tas you p, leew, have sto the the dend and.
+
+
+PUCIV:
+Thou freeurse mownk, for than sham in win bys,
+And the ond my the nuch sompaur aing!
+
+Her cromlle and this hou, good sthe mordst hime tharce,
+The he Mave you you hou morthe Killd ee,
+Lious sueld but ear, wit grepsent this ourss mite
+---------------
+To be or not to be god so theer wisce. thor I whilll fos daven the he wis a and nat
+Butit thin thall he mis wave has the maglty as thar han have,
+But lit the pres ist falth weth, his cowng ard my toldss wellll of or to hasts.
+
+
+Freachtt you ured, craurs and a the hou han have,
+This gom'd and the nother un of And mand and cog diththse.
+
+
+
+ENGLUS:
+Wher Jut has art bel ingst bearty theis shours to won stre,
+I hak have und thave min we the sat my and.
+
+
+Fartung the may the dak my unt that suner to sour por ton o the 
+---------------

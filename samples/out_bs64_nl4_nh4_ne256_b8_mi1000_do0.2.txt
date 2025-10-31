@@ -1,0 +1,177 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne256_b8_mi1000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to bet taks,
+But loud grie for in hard you trowe me teving trath lade tron thim nadters,
+Ther king tey.
+
+DUKE VING my wood my I heith reme has you ard,
+God rep Whou not ladving It nenthath meash ar with and and far hat ward,
+Wirh graghtes, colivearsurlant naw ying ins stay but trolt.
+
+GrUKENGE:
+Yar ryes lon, lats sand them her them rey,
+As Vord's then great wergai ind son sain told. But Von werastable er than by praing,
+Whar,
+Buth wilain lotd i moulth me ten my Hend nothm cef minshim rand guin lood m
+---------------
+To be or not to best?
+
+LUCENENKA:
+No I the then mu.
+
+The hir avesirs;
+Of IUK:
+That ciman the the spith him noth to with sin hut hartin I is netter siding ast with trech I
+come minnen teve rinn, with thou deand fir you me and leau cung ind.
+Ror RECE:
+Whou as sitirs all tiln, care to and you, hid fir eiperrer my ond feve neambe,
+And I ming in sir, my well mayst dand ont with ing lave a witn thast,
+I mard ter and neet with cettm tirash but dirgepstione,
+I mane brew with ther higand thos lud you land inserrents srrin
+---------------
+To be or not to better wath,
+The ling the it mang, mancer nown thrargine, that ind ind is me wen sing dis lem.
+
+NENCEN:
+And so terale with duch is and bruland intin!
+
+ELUMEO:
+Grest 'el lown him heane
+Sers lrvare to greventantrruck ipurng and me onswace thy thou curres.
+To by hou Groun;
+O, peets farst of au.
+
+
+CENCENRES:
+For Cut forian I'll En:
+And their hathy me that worcene men mall you,
+Then and to the of try hats not thord telve you my perest yourhead sond ther firm,
+Then beteen, dis grood and my ou onthis to 
+---------------
+To be or not to be with,
+Frome she withs ave him you love
+Ingto badn to pire,
+Willaughin with, the king singacince thou cres,
+Thersen yon in, ward tied spertss cince tay, and serss for mothen,
+Jont wasn wild lieng thei, a that tent brod thand ret so and ledecpeles,
+Wheir ind him saln suea; the werer handlm to tion, fur with lin: warte gnows
+Sen, en I hord the theraveit to and the but is rie cut good ontly;
+I, baure thim firsainh sing not my dain may her nip manser,
+And tiont tend all thin you and so frare ene.
+
+U
+---------------
+To be or not to bettur a prike live, my theast net;
+The manngrinaing the shre comple heare not fenil'nd moue prants,
+With prowas word weld the wor my you.
+
+Mer guire land daing bir maust to teeare igh:
+What tay!
+
+Must.
+
+LUMENENIUS:
+fill wor is gie, loy and crand a rim you ther loudnie,
+And monters may whald I cand lead thouls, forting las sactand their I vist barest tand frormand not and the cantat.
+
+
+TRABENLUS:
+When in your cumpanich nou?
+Whels musprint groll wear His res ind;
+Whish in leven mush thing thald you
+---------------
+To be or not to beain:
+Tronds sir ouring not thent cand all trown teed wrath will rive
+ith thes trol sunting kis be sumpeftencenter.
+
+BUMEN:
+Crive me, will you nou thid wall shee his deve rurt,
+Tair tay, whe sactine not to hey, have to by ind it wreack with
+With Ees so.
+
+ROMER:
+My ond so fenceare sone,
+Tere we crong fent was not, Rup it the feencent trour maing thish tand tir crown the sont.
+
+OMENENENELME:
+By with noth say will me kans som yor;
+Whrin youry thand teet and spreer our with nier my marrignce earm tis
+---------------
+To be or not to betur,
+In ay swell gon ond thim me it as and thow in dand prain:
+felche you a fes train, worce shathourants elvent hin rime end liwith saine
+Ther ben thim not.
+
+LORENEA:
+Am the wee: kir the and lis mes.
+
+Ramince, I kenper'd.
+
+GrLUK:
+Thou you clivine, hon roce hear you;
+Whinse say bead hisent.
+
+SUCINR:
+Whear day, see;
+Bure to reve spin,
+Wer is the tond buther, so husennor
+The tast and and trand ands with and thead fard that ift was grest,
+What,
+Thea homirinte frour the weith a wirn of now the reft 
+---------------
+To be or not to bett tee, nempaishy
+That is in ighte andce of hat thou bet ind is he and to say,
+Thenrove hearn and with Crish to ond darprest he'r shid.
+
+Nir Crove, with I'd did:
+You in with wich rent with sin wrace peace fe, sred ther miven in the kin,
+Sis will him this de'er eat me mid to dets enst with in sace
+By whee wrave hosent them,
+Whor lif you crour wand that leve him!
+
+CUMENENTENA:
+And ond, and I noth gaant crobtent the weer math in ses in I bring that godd
+And noth gesert: so guin wamant rong if word,
+---------------
+To be or not to be ford.
+
+CLOHARD:
+A hork my me he nireree my ins,
+Gron's lentins rear me writh tainit, your, wor nie himest I cament ung yevir sive
+res that
+Busir diond ind.
+
+KCANGE:
+Lor fir to tion to you tervy vor goood rur and to me dins? Gor I will reghie an this met nearsing
+and in the me onces noth you withseear hell cie
+Thy new tagh you noth mure gooder,
+Whe glaunt.
+
+
+LOUCENIA:
+Butien wirhn:
+Were awn fir, prosinte.
+
+CLENG ELLY:
+You lebt and with, land I mong sold the sonty shoss sering,
+Whear laonn to com
+---------------
+To be or not to be nat withe my to thus moth coming,
+That led with thent hat it sonth ceave don lets,
+Ont fainst nak word ond siry
+What ou sear rempe morimties to Lort, tble ter bartin his a your this ind ardinerst
+Wirng lade oudsarre mauancess best prenin, toand of cannernce the frome,
+Whill in ind to this ha himhat the maysine,
+With wence,
+Head And dis me sreve my shar sood ind with und stre sirish weilh shad men wrect you do.
+
+DUCENREY:
+Not win tres deresh nich, a seeve sheis I mule;
+And you hown not now sirnt
+---------------

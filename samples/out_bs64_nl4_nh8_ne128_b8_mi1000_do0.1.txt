@@ -1,0 +1,159 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne128_b8_mi1000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to bete this th dof notesty ploud?
+
+JULARCHALIOLTHHAEUK:
+Thand whell agr she whau tey:
+Thy.
+
+Say shand the sim bef for dand, the dence cof cof ind me wir:
+Kay whe llom hene hoold flow the wipe alar dibed all oung
+Trea hand fon the thur the igh the I sThe brord,
+Cand dow is aicof intis bend, the lan frdlard to thit:
+The wit my with thain blay tous sue doder thess
+And by is be hese itr te sto wer a hin of tharst nof gecan wosee,
+An mind hy hat munged the the to Go dandy tou, me thild,
+We he wil heth th
+---------------
+To be or not to beter feat toor wilf icke,
+Hall bElat avenge tring sthe the pan a have to ffer a codrd
+And wef hird stof than tharde mods of mer that he il of blith
+he the lat sculde oo buotht me lethar itht my prod,
+Hath not sof hang the by ay noustech, ip ame lay cof fee raving,
+And lat thait o o a tou spree hen sourse hous thoue beflle
+this and werdnthme theage thof shagy ou thard ifoug:
+Thid the winks ro nomer the andt ben loat thest hends:
+And ser helve gat gr cor ant this hank yo mand hiband
+Hoc otht ar the
+---------------
+To be or not to beemir ley domimpess hope.
+
+
+ThivOSARCET:
+Hon pomenceg mul wind mad pay I hait mer theng
+Tour thang is hop he ampue of sit ill ent thay sthim t to a the is you,
+Tou yolld fad, sof co the char his ar, thisu tans lithiger.
+
+
+
+
+
+LTINGCALLUTANCAULO:
+Sou thind he an cound we Vor well hofth thiou thean arat wind
+Bordst his ibrrt is an fe come a a say abuts that,
+I ind Tus hamors herr: my heak he prang comand lith
+Thar boty the topher e sthe fir the thee scoow theay randerd far,
+An the pe gorde fy by the
+---------------
+To be or not to beth Obut,
+Thr dit I for I will:
+Sosing hou at us and bouch , the comur dous he avedd tor ophid?
+
+GORKOLHAM
+BEMELVALALLIA:
+The for, dom the hou hee he thas of hee, thou brcose brestores,
+Anrr the pricurd waild to he he wis rit is the me tone hoube up sthe grar dend-eants parp dof at theste,
+The ther the for dom his he dot he tin blow, to we tho ther,
+
+An wit thic:
+Nou bust; dom comand wird sor wits for me barke bee sond mis ssthe
+tlat y trave micerd, owe shis the selll wich fand touge thou ou sof 
+---------------
+To be or not to best feand har wil tos of I as flor. CABES:
+LO:
+Whath will ally mert anes a she thaner ing roar
+An noth thef I sthell hee foull thell hee ford thecou gonk,
+And she the thar lownds som mird sthanke is tond mam ombll:
+And the go the drore hee heam ow tis an spe atee I my ave hind,
+Whais soure pre therd thare: wo willld hin the soth by fourd,
+Four now bouact and Mamouctht ond andfor'd ammor hant bestlaters sord.
+
+PRGANI:
+
+KElo I who tho mouss the, toune wis de tour and, dehat hatht gorvomin'd atand I
+---------------
+To be or not to bes thinse to he the cohal and nen he at to hat wis ay tor husat my
+His y preavent bellineds foore: to wnot der thith eald heper thearidn tour,
+Ang youhein thas lamftor ace of willllder: the Eet hean.
+
+
+
+
+MALENIELALA:
+Whar with arth dove amt at all whe whis y thau ars sy noblce thith:
+
+And this this dild Oorth party use the beface inde ther ter;
+Thel hell he's he war endcow; you it you nou sthe lids.
+
+
+
+ENIOLENCHOLAMY:
+Whe brit dest?
+
+
+
+
+Whithe port or, whend pof are you-f comandirs lis Thinow ons
+---------------
+To be or not to beanerk this mane
+The thine wintth hiss linee; wis and fo hom hoint sondf sallt his
+An prichtas meneny ba'ds the sof hir wom achalt we soury,
+
+And grownde at he tow ge hend tous of and alll anand swird
+Gedir tham is mome fos hend this shind dee sthe he hea r ound;
+As follive has tolld the this low for dicke mest astour.
+PTOUMEURLAS:
+Freng by illat you ther ass the us wo the beer,
+Busond the ther ave whou ll as so willd me laves flor froty;
+
+Anver as by gut sou cot itht poure wit hourds inif thath.
+---------------
+To be or not to bes stho swins o deckn int foimn fold,
+And therall san we tor wo theam uwhtef yhe thos for or gloor me,
+Whis he de ffllend mes dost You owin, sheee whith rols noof touru,
+To And thend my anou coh theand forys crerd na wivich you wis the tour winds.
+
+Sulace:
+Tht cof ind is no hell tisch monds heag. I I cillllie facur wre win hith hourde tan heme.
+
+
+FPUKINCENK:
+And Ifall me hands fond the grorth shat us: to thandsit tothe mometes ang.
+
+Pry Oy ROKIO:
+QUes herp I then coas to grace ind,
+Tos peait hass
+---------------
+To be or not to bespt eandm of sre ar,
+I at kil fod cou farcinint wh wimer the al facor;
+Fring cof the would emy the mour tham mace dackeds sis,
+Whivis fulll me bas thidy prof ther avere pent hees sead with parelest toor,
+Gur the sey anf tre din woll a bustte wintlt dend gartthe dof shis
+The whul e mownk tand thin shim grimy, bys,
+An sthe gris the an des sompas har gond top romlld aver sfomed bend
+Hom the san theim mir hcand fcor momhte y ay fllou my this lle lee,
+Lious sueld bus eat, wit grep her tof his ssumite
+---------------
+To be or not to beeged sto hin be sceelt orf fraily
+Whes dave his blame srace it and and thand thally,
+Nou bodk: hay the mallt tave y ou thang ome favld;
+The pot theakes these spart tcowe sur mestend?
+Cow:
+
+
+
+Ho hand,
+RUThas of you chythed:
+Ar deechau suat we theall ind on creaves stom' or her done:
+Fo undoul ive, he wor coghd haf sethe and fand ther Jup hand to bel inge theand:
+Hebus lagers toumen sthe, I nand aich fande bot belaed.
+
+PARKENGT:
+Meait the at ned move thy a ge themer my wnows to soury ou to wo the 
+---------------

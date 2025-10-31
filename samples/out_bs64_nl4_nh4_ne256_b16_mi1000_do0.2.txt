@@ -1,0 +1,158 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne256_b16_mi1000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to be staisy should
+Wher the night: and to the et thee in fir the will not the coud his is hank him precs yues theim,
+Anow stantufice be savesir, and wordy, he Whou by mords unteds tike,
+This shall fioll he curs ar and you unrighting dows,
+The some unlent now yies'ins sunter have lift the me say
+as reas love that saus themer him to requeas to o'er smar me his of hous to not and
+The wish ling sias hele ears and yepon the will,
+But me wailloodd in our wars to ploods,
+In yemble not shink and good lied i
+---------------
+To be or not to be mentered, hishith hear the now,
+
+BUCIO:--To whith; in hop when no a good that eart oh the sail will cothe be harting to you,
+Of siciould and the were I come misirnites noth the pled of the knows:
+So me and anduisunsh waul.
+
+ARD ICHARD III:
+Heirs all the world the a pay sadord, thee ber crome on af Clow ambe,
+And It me in and then well mays,
+I had and I'll to like a by nat'd and me he peak and theirs? not tmen,
+O' waull it the to er graces be whith theme hight the sulf and melf.
+
+DUKE VINCE
+So I
+---------------
+To be or not to befor lices,
+I mad in the it mare,
+mancer now a dramerest that burties is me besis,
+I diitle wise the rove morrier!'
+Whou him o'rs and be lay unh
+Him frour the seas 'Be a with him hee
+Sporly the be to some and reak in and and me onson
+The hered the recursoped he pore ther, peate of on or al.
+
+SICINTIO:
+Ay, cold and is soold this his moinsulony you,
+I be pree he ser luce, and nigh the the poirs, in to mort poriuself,
+But my peryself hour his wore hear the in santoIe,
+Of swarnow and my our Cling to 
+---------------
+To be or not to be the car:
+We score sawere in the aill almanto badner a thee to last in thous,
+And the bittaces to doup he profersen you slible deas,
+Or truss conse the our to the for morrongue o' wase,
+Leepliends this a beard entur befor his flison.
+
+GALIX:
+Der arm'dis mose it saun suea; the were, the lef, heir the when belt the cous,
+And and and I hold the the a siriton, have,
+Iu siserve curle sure the buith the be hom and muss'
+To you you him thour the sinnyer, the stome that all that you and so frighte me yo
+---------------
+To be or not to be thrraw that aims, the chaus spardy we and ress' brose shruse whe king.
+
+GLOUCESTER:
+Thou hat not in would wast be wase that would and a hanright will hought this or the spee a be:
+On shall and their.
+
+BUCHINIUS:
+Whild un thought, love consure your may:
+Stake of you for and the sumbord, which sich the the comed at the shong
+In the cour tose gainess unfer marland not and the camomt.
+
+KI be shold Came Lifs:
+The make dead, you hem muse my for my wear in now, and;
+Whence the gromer his be the grow.
+
+---------------
+To be or not to be in lest nonce not in the at whith's sarritideds ead. Pare will or meith thes you him this knows you off'er thee me in bowns his me,
+The be han untlided will thes suisice unter arritter,
+Self connes the leve be so. I will I give,
+And well me trown as the good parlow!
+
+AUTIO:
+My me near, they be for flow which, in I with nead heash stron we and the hat now.
+
+MORCY GORCIO:
+For with to deeo dry would, thas would; me know som you;
+Whuch yiese that my him sous me your priin!
+
+JULIO:
+Wher you will fle
+---------------
+To be or not to beturme of your be god ondremils,
+Which with thou in day.
+
+DUKING HON seembarse sent: be wonce shandoreat seelf why we rime end the keus in him the not in deatend.
+
+CAPULIUS:
+And thy from woall thy me stanatle pake ame?
+
+ME:
+And surrous hear clived mist the and words her grand should thise;
+On be offire is paupers untanwell the the sain brois,
+The on my lord, so huse nor
+To but the that flack the stricuus prongler make,
+My inter see hort me the for homisilse frour the westine whour mine;
+Ond and a
+---------------
+To be or not to be mare sung mast you der sbe megcasterlce of and throw he sace but
+The eads thou he ruponse on and to that son meo.
+
+GLICINIUS:
+Arf him.
+
+DUKE VINCARICH:
+I'll plas it in with what read will son what sper spremest death imbefar,
+The with, god, the him the kie'll ext be but to deat ense,
+Thou ans come and eet lasil, ser them, fist the king the dian,
+And they mes I jusir, be sluce though he ter.
+
+AUSISBE VINIU:
+What wheer math in be bit but mis that god bear noth plost ties.
+
+LOUCESTES:
+Thou hanter,
+---------------
+To be or not to be for me my sence.
+
+EFWARWICTISINIUS:
+Geling its, in I mall;
+O'll gaill diust what it, your thou me thine to-land is uppare ir the hre to the which to fair,
+WheClenderisill pariin our Gels,
+And you will of cortakes or shinks? God I way!
+
+GLOUS:
+A the for be and now to it the me oncesonsur,
+You couse are his cirse, noth tage, my be theirsel;
+I hall coust your be flaw suded;
+On wilknes enty were the cous beas to geer
+to to fair to him to the der wild, bold the be you hose soring,
+Whee suck note for
+---------------
+To be or not to be that in for you thuse mustide theo may clion
+The him the dian your cous flongeets,
+Ont fainst enk would be some
+What our will to be this the dow, the the says bartine they your to the justain
+Thruntress and ourser'd me all die and preninter and of clord?
+
+SOMES:
+Now fair marith kiin heave.
+
+GLOUCESTES:
+Ortaise, bi brown Jer yany ander, me I mons
+Enwine and the bir be vite whour is the but his me with ber.
+
+GALII:
+Him the good the citill and nigh, and besomesilf I'll the Vartions,
+Well now sient
+---------------

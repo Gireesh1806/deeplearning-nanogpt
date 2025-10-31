@@ -1,0 +1,180 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh4_ne256_b8_mi1000_do0.1
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 3.16M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to beretake,
+But lou him theon in hard you trome me ted leet.
+
+LUCIO:
+Prove tiden, the is with thin the shy may:
+Timbar on my alnfith ring triin
+And plow you prong hime, and und den ithath meann ar fit and mauls ming;
+Ond with rest ned.
+
+CINIUS:
+Duke I nike will!
+
+CINIUS:
+Now and liet now, the now ord will us tas says not ang so tith you,
+Whore'tir may me him of ho speove sain tol prost not with I ble is than by preitur ou bericisinglain lotd is ou to me ten.
+
+LONCENTIO:
+Now nos shin and the halt wil
+---------------
+To be or not to best?
+
+LUCK:
+Buthis nitto stay, mun
+You wor not sirs;
+Dugh trow swill and tide cie my lide noth to with die had hadting;
+What the goidrite, as not try him come minnen teven,
+With to me of thand fing,
+My hear sainus, not wand on theor dy sward meirs all tisn,
+Har have tray ourh day hard, tir and ond feve not be,
+And no me ine in then, pling,
+To dand on ave ine nile, my witn thas for mard tent asing.
+
+LENTIFFL:
+Cintast butinirgeps, ore, gringer,
+My with the anl and thos live ind lood rider not srre 
+---------------
+To be or not to befter was slow gaing the it man.
+
+CAMINCENTIO:
+Ir marest arcin:
+The Guis, to he sirme,
+And he seer a rort. Borderile with dump is an liven you himing son neverses
+Mirt a with ith heele him rigneet to so spattrron old.
+
+PRUCKING EDWALW:
+Thy tide carrear mon,
+Whow Groughtrough to fay noth and not hor beppeeor lund this soinged.
+
+MENUS:
+For to you my lings cine me,
+On thy And knise the tir, ow thy hat and to thim thou you my perisany hoher lood wilh lood,
+Nir nentoI not som for and me to heath bet t
+---------------
+To be or not to be widhan To desce and with me to roil,
+That to badn to pire the laughing to suknown in singacish.
+
+AUCWINCK:
+Now, pencen is, ward tied spert spere an you dine, the word of ten;
+Mor wasn wild lieng theirs cont,
+Neng bred thand ret so and lide pairing ithe in ind liven suea;
+And were will let and on, fur with lien waste gnows and,
+en I hor at we thear in ton, have,
+Turs, wring un good on he my had thout hom my by not not to you him tide,
+Thip manser, the tisith nay aln thin you and so frart a me yo
+---------------
+To be or not to beer reve tike aigs, my thears net;
+Or, not nring and serss with, lerand und ture in's withe pren,
+Tin will that what well the word'd,
+And ing instrealng ond,
+Their orging of in fet:
+Cristaintay!
+
+Must.
+
+LUMENENIUS:
+Sill word, age bill is I cran
+Side!
+
+DUK:
+But on you fromen, the say, I gains thence theAnd bested ating lad,
+With treatize tos the hes with but ome bend was and not tot.
+
+
+The on on the nik with:
+Gur and their?
+Whels mustront grom now:
+By yours and;
+Will by hen, not shing, fur aging y
+---------------
+To be or not to be in lestens,
+And trie the at word dink word him teed we aw will or myith to say,
+I sund ing swas you owf ence; vime in ing.
+
+LUCINIUS:
+Ser is noughtiden will then suke cers.
+
+LUKING RIO:
+Sell cone good tome; way ler on with,
+You,
+Him well lant my say the grien,
+Foor on sie, nat me nespeering on frounent with live res tir sire you tot on we in les.
+I tan mish cive you, some but tim ond hom gleart--noth say will me knosts,
+Not thy dinge may than my him not pring or tiring ith my marrignce.
+
+ROLINC
+---------------
+To be or not to betur wing you nes good.
+
+BURK:
+Petion sweard wow ith not prain mantere you doo sing ind wence shand;
+Ond seel truy wit the end liknow sain hir tand here me sompleen,
+As am the wee your the and lish os manation the knot tiun nirest:
+Thou tir clivine, him rost he my svire; not sher'd the lent.
+
+Serest:
+Forst and, sir;
+Bure tot not spintirs nik,
+The on my lord, so cusennor
+To but ter;
+Noof that light liching wond king way my ing was ging tryoun,
+The onceir tand him on cruesill twer romin.
+
+LUMENTERL
+---------------
+To be or not to be mate,
+Ther nes yir depisb the cantendce of had thon bertie tist,
+The eres thy will tand you taur with Cadinnot.
+
+AUUMINIUS:
+Forray, astize not he to Julice, pres is in with will ring and youn withere des fe,
+Arrd ther my gai, and with, good les him tings will nat me mide ond
+That sing alliens cingy whee wrove, not time my fist cif you crour will that
+To the nibleai not tentain ho gurtestern.
+
+DUKEng LUCENTER:
+Nows shou trien serein was min that god bear notand,
+To sire guing amann ring in word,
+---------------
+To be or not to be fatime my soin;
+Hady kno say bustireas ind ins,
+Gron'd lend 's rir cred,
+Ast to tie, your, wor no thin sain and is ung yevir not.
+
+Serest live, well fir hy to me.
+
+BUCHARD HARD:
+Ther would triy, not mood ror and tords inds? God I will regere an this met not will and it the me onces not bear tirese.
+
+MENIII:
+My hy new tay hy you knoth sou; I hale;
+A, thoblaugh fale srie,
+Min wirkn:
+Wen your cant prosin.
+
+DUCINCIO:
+Lort, and badinglettang we ther not with tet thy ast shaideing,
+Whil nur grane not
+---------------
+To be or not to be nad withe may tir.
+
+Camtiringinend may led with the mayst it no thereatird,
+Diensnst thind stien, word on shary
+What our will tor pronittids ong, not thin ter bary usend a your to will hardinge.
+
+CLWARD IIUCKARD, BUCENCHINRIO:
+Sird menin, woan to was not my him frome,
+What him intire the and he have me maysise,
+With on lest yad res dis me slang my shar sood ine with und stress your well dow
+I men wred sough to hearing ith ling in cine heard nid.
+I'l, bes sheir be plien, Virtionownds:
+Serves hea
+---------------

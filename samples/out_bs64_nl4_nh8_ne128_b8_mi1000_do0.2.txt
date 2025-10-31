@@ -1,0 +1,163 @@
+sample.py:40: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=torch.device('cpu'))
+Overriding: out_dir = out_bs64_nl4_nh8_ne128_b8_mi1000_do0.2
+Overriding: start = To be or not to be
+Overriding: temperature = 0.8
+Overriding: top_k = 50
+number of parameters: 0.80M
+Loading meta from data\shakespeare_char\meta.pkl...
+To be or not to betent is it dof nollst:
+Sery tourd and palo thin gorins mar,
+Bar agh she whaustey: thilld alf hand ompesilll fove!
+
+He was whor colls OUR:
+What herer:
+Ke thave sus hene hooll f tor, sind win,
+Whill perit ous this fot anf tof hothurt sulig beloun
+ATht bror touk har blis aifore ntis bend, mart halld,
+And turt hownd sind. my withe I in blay tous sues outh thess
+And bo ird Keass sith te sto weren hy wof tharst nof geran wosee.
+
+F Horme I ILAUS:
+Asom weat got you dandy tou, me thild,
+We he wil hetht a
+---------------
+To be or not to beserst to to to bof icke,
+Hall bul thaveng's ting see inth pan a hain to ffor a ceerd
+Ans wefilir, stof than thard hends ovems at athe fer orsblith
+
+The thin as then oo buotht me lethal itht mear tofir thand thy shouboutht thardnd.
+
+My boil ame laorce the brove toous:
+Gat thait o oul tous suee hen sourse hous thoue
+As lle thou ant werpnthmes alage, bofest gyo hit ard iloug:
+Thid thet y kour tham the cous, sos mllat thost hends:
+And ser helve gsthan cor ant tais hand yo mand houperer.
+
+Yout I weas
+---------------
+To be or not to besen olededd
+Bupess hopee I whit ther ras fo porenceg mulow ang tor,
+Wich sit mer theng mate toth bea ho we mampue ond jorile.
+At I YI seand Y to areen isth comoted
+An, thad y me co the char hinght, towely anss fourger.
+
+That wis CAhof blercthent:
+At Ben he an cound bece:
+An hash fou thoou thean arat windil thes his ibor, is anthe coth'Th
+My willlls that, I ind Turs anors herr:
+Wns tas herof now ag yo lith thar blty tor aurd the sthime.
+
+
+As ENBE GARIURGA:
+Hard, verd mof that hipe goree fy bute t
+---------------
+To be or not to beth O, tof trod the fou I
+I bay arsing'd toat us and bouch , thencom,
+An an he and dant hopule?
+
+GORED:
+
+And thy talll i ande foored thind hout Ber thand
+And heerl wous, cos to dof athem lrrish comicurdy, ind,
+Bou bow wealll me tomy meer teanoube uth, and whand theeng sam fpo y
+An lof sthar brof fond tof daves hes herd that til blerte
+And wold thery y cou ou wice ar me peale mecom,
+Bow beve alllisted bertof kicthe send mean s tof latou thave mins
+An owe spsu thande thin com ghaths gunt hand,
+And 
+---------------
+To be or not to besthf and har wim tos of, bus flo f tost cre gopser.
+
+
+ISARLERII:
+Fod, his son thaner ing hard
+At no.
+
+
+LAf ILE:
+Welllt hean CE dous helof tir the centhat isth
+Tof lont ar lorlls sor mby coreanke iontod beange:
+Thand wedllag ith the se poued helow tis an sun atee I my ar pe;
+Thind ist oure pe stherd tup blaro wind dom the sos;
+Han at heverd than do ouand and Ma oucers ond angend'd ammous,
+An besthat as sore owitht thar, lo thave tho moussis mintoune?
+KI de porind bome hat hatht ghove that w ator 
+---------------
+To be or not to bes thinse tom;
+I he cohal and lla have at that wis ay torerd atwer,
+And nontow, the lllou srod thin:
+And thin Nop thoe lave porve verise tore,
+Ang yo hein thas lfeftor ace or wisthe,
+That to fang thecoou e sto is my sour beath,
+At ghove art athall we as buny thour sim!
+And nond, ith ng somel, the hous theort heart sus thicingf and pond
+The te cisp lis larne's he ware facow;
+y ich cowinn o sthe lid nthar thinds oune hit incerd cero thy
+Hind the po beor, os heapl fare soutillld hairs lis Thino buns
+---------------
+To be or not to benee.
+
+
+
+ALENTHHA:
+An I oirdsntt thisins wee; wistour fo hom hours weanf
+And, hind
+An if cotas moim inds'ds the somp.
+
+
+LENOEBO:
+Ang the! y shint gord he atof thow ge heat tous of
+And alal anand sarerd toirs;
+Th is momp fos hand thill thisin preat and hea r ound;
+Ase theive ha wollld the this lllans wis delll thast urd:
+Told betom cureng beliowet y thours ass than wil cour beer,
+Busond thet wer aves ucut thes s py dound:
+He winf spaird your uvers shou gut sthic thitht poure w.
+
+COLARETETED:
+UKind
+---------------
+To be or not to bes stho ow
+Whay deckn int formo f lith avent rallllan wert.
+
+
+LINERBE:
+A tho Hy tho sof tho my dou me sopink thin ffulends thy ourm
+The Myeprs geemind derels noo b---rurd wertht toue my
+Anou cor theand fof hecherd fa wevict yopllis thew;
+And musond Sular withte pof belis nd hell tincht fars,
+Ang ovis cilor ie facuplll than hith hont lllan ham do come nd this orit'd
+And the lang wnoul wherd this Y mus: to thandsit totow ilm the arsin.
+
+
+HOy IOLIO:
+QUSor dram and thit sof or foved thincss bait hais
+---------------
+To be or not to bespt bandmyourss tar,
+I at kil fod col fal'l isw whew mer the at fupon;
+Gr byo of thet sou neast fupesucers prus bedartkes storst,
+An thal o mo beste fof prof thers and, penthines as dis halysu last tk
+Thisur tred py at her po l woll at wende wint that,
+O thof fo bres willlllllug e m wopt fo tuthny as and.
+
+WINGLAOLA:
+O to Esom bend no susompas harnge,
+And costll mat to fou tabend ald thees he deise tharce in cor mo hee mast f lond
+Whamy Kile lee, gious sueld bus eatht tthe ip herd sthat y surite
+---------------
+To be or not to beeged st thin be sceelt or,
+You ay kiss faven thelll I I acank nd ay ideth in thally,
+Nou bo he hay the and thear thar han hay.
+
+BRARELETELELE:
+Thist I lands bopart tcow wear methend?
+Now:
+
+
+
+Hot pomy Rousthir erd of ythed thead, chau stat we hate orind onder,
+Thiss ple or her dont hes unooul ive, he ucll me dith hirth thend and o hind
+Th we are bel inge theand: thiis larers toum.
+Het Vior hand Bich fo te botor, we the Anto r wo go tothe at ners coweat dal my urmerd then Eng tose bunor tonw, thes
+---------------
