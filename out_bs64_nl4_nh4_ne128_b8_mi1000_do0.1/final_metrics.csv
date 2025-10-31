@@ -1,0 +1,2 @@
+final_train_loss,final_val_loss,max_iters,n_layer,n_head,n_embd,batch_size,dropout,block_size,actual_iters
+2.207,2.2386,1000,4,4,128,8,0.1,64,1000
